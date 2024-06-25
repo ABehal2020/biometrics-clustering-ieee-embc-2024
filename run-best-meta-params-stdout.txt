@@ -1,0 +1,251 @@
+Patient ID: RCS02
+Best Meta Parameters: {'washout_period': 120, 'activity_bin_before_pain_survey': 0, 'activity_bin_after_pain_survey': 60, 'sleep_binning_direction': 'forward'}
+Best HDBSCAN Parameters: {'min_cluster_size': 50, 'min_samples': 1, 'cluster_selection_epsilon': 0, 'metric': 'correlation', 'cluster_selection_method': 'eom', 'alpha': 1.0, 'allow_single_cluster': False, 'gen_min_span_tree': True}
+Best VI: -0.28029219249851056
+Index of Best VI: 10
+Column: MPQtotal
+Shapiro-Wilk Test:
+Statistic: 0.9794297218322754
+p-value: 0.00010310541983926669
+
+
+Column: painVAS
+Shapiro-Wilk Test:
+Statistic: 0.9729217886924744
+p-value: 6.507782018161379e-06
+
+
+Column: mayoNRS
+Shapiro-Wilk Test:
+Statistic: 0.9521652460098267
+p-value: 5.906471312044914e-09
+
+
+Column: hr
+Shapiro-Wilk Test:
+Statistic: 0.953683614730835
+p-value: 9.205936457590269e-09
+
+
+Column: steps
+Shapiro-Wilk Test:
+Statistic: 0.483289897441864
+p-value: 5.394592216488563e-30
+
+
+Column: calories
+Shapiro-Wilk Test:
+Statistic: 0.6243195533752441
+p-value: 2.161884558189058e-26
+
+
+Column: Efficiency
+Shapiro-Wilk Test:
+Statistic: 0.974967896938324
+p-value: 1.4934375940356404e-05
+
+
+Column: MinutesAsleep
+Shapiro-Wilk Test:
+Statistic: 0.9514045715332031
+p-value: 4.74420147611454e-09
+
+
+Column: RelativeStartTime
+Shapiro-Wilk Test:
+Statistic: 0.7019433975219727
+p-value: 6.286626219058475e-24
+
+
+Cluster counts: 
+1    170
+0    114
+2     50
+Name: cluster, dtype: int64
+Relative Validity Index:  0.4143747263949846
+Validity Index: -0.28029219249851056
+Cluster Counts:
+1    170
+0    114
+2     50
+Name: cluster, dtype: int64
+cluster finger prints mean z score: 
+               C-1        C0        C1        C2
+MPQtotal       NaN  0.857370 -0.492951 -0.278769
+hr             NaN -0.290599 -0.099646  1.001362
+MinutesAsleep  NaN -0.619394  0.623732 -0.708468
+cluster finger prints std z score: 
+               C-1        C0        C1        C2
+MPQtotal       NaN  0.880254  0.742859  0.702561
+hr             NaN  0.785725  0.893724  1.176288
+MinutesAsleep  NaN  1.010229  0.560461  0.790522
+Confirmation from HDBSCAN run - Best HDBSCAN Parameters: {'min_cluster_size': 50, 'min_samples': 1, 'cluster_selection_epsilon': 0, 'metric': 'correlation', 'cluster_selection_method': 'eom', 'alpha': 1.0, 'allow_single_cluster': False, 'gen_min_span_tree': True}
+Confirmation from HDBSCAN run - Best VI: -0.28029219249851056
+Patient ID: RCS04
+Best Meta Parameters: {'washout_period': 60, 'activity_bin_before_pain_survey': 0, 'activity_bin_after_pain_survey': 30, 'sleep_binning_direction': 'forward'}
+Best HDBSCAN Parameters: {'min_cluster_size': 50, 'min_samples': 9, 'cluster_selection_epsilon': 0, 'metric': 'correlation', 'cluster_selection_method': 'leaf', 'alpha': 1.0, 'allow_single_cluster': False, 'gen_min_span_tree': True}
+Best VI: 0.2654706336960227
+Index of Best VI: 4
+Column: MPQtotal
+Shapiro-Wilk Test:
+Statistic: 0.9269103407859802
+p-value: 8.399381017099028e-12
+
+
+Column: painVAS
+Shapiro-Wilk Test:
+Statistic: 0.9794573783874512
+p-value: 9.377559035783634e-05
+
+
+Column: mayoNRS
+Shapiro-Wilk Test:
+Statistic: 0.9271177053451538
+p-value: 8.795541552031327e-12
+
+
+Column: hr
+Shapiro-Wilk Test:
+Statistic: 0.9647666811943054
+p-value: 2.738250941547449e-07
+
+
+Column: steps
+Shapiro-Wilk Test:
+Statistic: 0.8440268039703369
+p-value: 7.916967976621567e-18
+
+
+Column: calories
+Shapiro-Wilk Test:
+Statistic: 0.9001618027687073
+p-value: 4.0811856661087526e-14
+
+
+Column: Efficiency
+Shapiro-Wilk Test:
+Statistic: 0.9733454585075378
+p-value: 6.8040085352549795e-06
+
+
+Column: MinutesAsleep
+Shapiro-Wilk Test:
+Statistic: 0.9083868861198425
+p-value: 1.8692241764844963e-13
+
+
+Column: RelativeStartTime
+Shapiro-Wilk Test:
+Statistic: 0.6847624778747559
+p-value: 1.1929467194885834e-24
+
+
+Cluster counts: 
+ 0    128
+ 1     86
+-1     65
+ 2     59
+Name: cluster, dtype: int64
+Relative Validity Index:  0.2844423260623952
+Validity Index: 0.2654706336960227
+Cluster Counts:
+ 0    128
+ 1     86
+-1     65
+ 2     59
+Name: cluster, dtype: int64
+cluster finger prints mean z score: 
+                    C-1        C0        C1        C2
+MPQtotal       0.270627  0.420350 -0.717625 -0.164065
+hr             0.034286  0.363503  0.081829 -0.945666
+MinutesAsleep  0.381994 -1.005202  0.690189  0.753898
+cluster finger prints std z score: 
+                    C-1        C0        C1        C2
+MPQtotal       0.949298  1.112853  0.679897  0.425418
+hr             1.122857  1.034159  0.529563  0.686298
+MinutesAsleep  0.532658  0.814553  0.393786  0.395590
+Confirmation from HDBSCAN run - Best HDBSCAN Parameters: {'min_cluster_size': 50, 'min_samples': 9, 'cluster_selection_epsilon': 0, 'metric': 'correlation', 'cluster_selection_method': 'leaf', 'alpha': 1.0, 'allow_single_cluster': False, 'gen_min_span_tree': True}
+Confirmation from HDBSCAN run - Best VI: 0.2654706336960227
+Patient ID: RCS06
+Best Meta Parameters: {'washout_period': 60, 'activity_bin_before_pain_survey': 30, 'activity_bin_after_pain_survey': 0, 'sleep_binning_direction': 'forward'}
+Best HDBSCAN Parameters: {'min_cluster_size': 50, 'min_samples': 1, 'cluster_selection_epsilon': 0, 'metric': 'sqeuclidean', 'cluster_selection_method': 'eom', 'alpha': 1.0, 'allow_single_cluster': False, 'gen_min_span_tree': True}
+Best VI: 0.43571804162394523
+Index of Best VI: 3
+Column: MPQtotal
+Shapiro-Wilk Test:
+Statistic: 0.9850289821624756
+p-value: 0.09270613640546799
+
+
+Column: painVAS
+Shapiro-Wilk Test:
+Statistic: 0.9624329209327698
+p-value: 0.0003205974935553968
+
+
+Column: mayoNRS
+Shapiro-Wilk Test:
+Statistic: 0.874582052230835
+p-value: 3.8441042016224003e-10
+
+
+Column: hr
+Shapiro-Wilk Test:
+Statistic: 0.9837507009506226
+p-value: 0.06547869741916656
+
+
+Column: steps
+Shapiro-Wilk Test:
+Statistic: 0.6630311608314514
+p-value: 2.315793868057545e-17
+
+
+Column: calories
+Shapiro-Wilk Test:
+Statistic: 0.8382149934768677
+p-value: 8.515099216011013e-12
+
+
+Column: Efficiency
+Shapiro-Wilk Test:
+Statistic: 0.9700047969818115
+p-value: 0.0018515908159315586
+
+
+Column: MinutesAsleep
+Shapiro-Wilk Test:
+Statistic: 0.9231526851654053
+p-value: 2.3416070860093896e-07
+
+
+Column: RelativeStartTime
+Shapiro-Wilk Test:
+Statistic: 0.7544240951538086
+p-value: 8.130062785103795e-15
+
+
+Cluster counts: 
+ 1    59
+ 0    52
+-1    44
+Name: cluster, dtype: int64
+Relative Validity Index:  0.08730980234906231
+Validity Index: 0.43571804162394523
+Cluster Counts:
+ 1    59
+ 0    52
+-1    44
+Name: cluster, dtype: int64
+cluster finger prints mean z score: 
+                    C-1        C0        C1
+MPQtotal      -0.489442  0.219161  0.171849
+hr            -0.530796  0.090795  0.315825
+MinutesAsleep  0.170888 -0.969158  0.726731
+cluster finger prints std z score: 
+                    C-1        C0        C1
+MPQtotal       1.213516  0.884817  0.798370
+hr             1.396495  0.648239  0.731085
+MinutesAsleep  1.086955  0.471915  0.446286
+Confirmation from HDBSCAN run - Best HDBSCAN Parameters: {'min_cluster_size': 50, 'min_samples': 1, 'cluster_selection_epsilon': 0, 'metric': 'sqeuclidean', 'cluster_selection_method': 'eom', 'alpha': 1.0, 'allow_single_cluster': False, 'gen_min_span_tree': True}
+Confirmation from HDBSCAN run - Best VI: 0.43571804162394523

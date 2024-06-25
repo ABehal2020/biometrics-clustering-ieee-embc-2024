@@ -1,0 +1,3003 @@
+Patient IDs:  RCS02
+Washout Period:  60
+Activity bin before pain survey:  30
+Activity bin after pain survey:  0
+Sleep binning direction:  backward
+Number of jobs:  -1
+Column: MPQtotal
+Shapiro-Wilk Test:
+Statistic: 0.9810752272605896
+p-value: 9.601710917195305e-05
+
+
+Column: painVAS
+Shapiro-Wilk Test:
+Statistic: 0.9703328609466553
+p-value: 8.145296988004702e-07
+
+
+Column: mayoNRS
+Shapiro-Wilk Test:
+Statistic: 0.9495804905891418
+p-value: 7.171752081092109e-10
+
+
+Column: hr
+Shapiro-Wilk Test:
+Statistic: 0.9752238988876343
+p-value: 6.2766484916210175e-06
+
+
+Column: steps
+Shapiro-Wilk Test:
+Statistic: 0.3970600366592407
+p-value: 4.011113292029983e-33
+
+
+Column: calories
+Shapiro-Wilk Test:
+Statistic: 0.6737415194511414
+p-value: 5.511053774393524e-26
+
+
+Column: Efficiency
+Shapiro-Wilk Test:
+Statistic: 0.9679902791976929
+p-value: 3.265243719852151e-07
+
+
+Column: MinutesAsleep
+Shapiro-Wilk Test:
+Statistic: 0.9616464376449585
+p-value: 3.270733017757266e-08
+
+
+Column: RelativeStartTime
+Shapiro-Wilk Test:
+Statistic: 0.6496740579605103
+p-value: 9.135801995224426e-27
+
+
+Cluster counts: 
+ 1    116
+ 0     80
+ 2     78
+ 3     58
+-1     35
+Name: cluster, dtype: int64
+Relative Validity Index:  0.38353022924717795
+Validity Index: -0.7538812400859979
+Cluster Counts:
+ 1    116
+ 0     80
+ 2     78
+ 3     58
+-1     35
+Name: cluster, dtype: int64
+cluster finger prints mean z score: 
+                    C-1        C0        C1        C2        C3
+MPQtotal       0.059868 -0.816520 -0.241651  0.447469  0.971641
+hr             0.749185  0.543151 -0.580068  0.411019 -0.593883
+MinutesAsleep -0.267197  0.304372  0.706713 -1.118200 -0.168223
+cluster finger prints std z score: 
+                    C-1        C0        C1        C2        C3
+MPQtotal       0.815546  0.674664  0.771041  0.932837  0.862929
+hr             1.432447  0.805917  0.637628  0.807438  0.761550
+MinutesAsleep  1.033513  0.536887  0.626780  0.951940  0.674610
+Patient IDs:  RCS02
+Washout Period:  60
+Activity bin before pain survey:  0
+Activity bin after pain survey:  30
+Sleep binning direction:  backward
+Number of jobs:  -1
+Column: MPQtotal
+Shapiro-Wilk Test:
+Statistic: 0.9838306903839111
+p-value: 0.0004223844734951854
+
+
+Column: painVAS
+Shapiro-Wilk Test:
+Statistic: 0.9715862274169922
+p-value: 1.4823408491793089e-06
+
+
+Column: mayoNRS
+Shapiro-Wilk Test:
+Statistic: 0.9537523984909058
+p-value: 2.816917588077672e-09
+
+
+Column: hr
+Shapiro-Wilk Test:
+Statistic: 0.9626014828681946
+p-value: 5.071240494203266e-08
+
+
+Column: steps
+Shapiro-Wilk Test:
+Statistic: 0.4053952097892761
+p-value: 7.749110022538008e-33
+
+
+Column: calories
+Shapiro-Wilk Test:
+Statistic: 0.5734714865684509
+p-value: 6.979614655589307e-29
+
+
+Column: Efficiency
+Shapiro-Wilk Test:
+Statistic: 0.9686160087585449
+p-value: 4.58211076193038e-07
+
+
+Column: MinutesAsleep
+Shapiro-Wilk Test:
+Statistic: 0.9646561145782471
+p-value: 1.0498476399334322e-07
+
+
+Column: RelativeStartTime
+Shapiro-Wilk Test:
+Statistic: 0.649518609046936
+p-value: 1.137151391930646e-26
+
+
+Cluster counts: 
+ 1    158
+ 0     95
+ 2     63
+-1     48
+Name: cluster, dtype: int64
+Relative Validity Index:  0.2563696646013467
+Validity Index: -0.6349127330269431
+Cluster Counts:
+ 1    158
+ 0     95
+ 2     63
+-1     48
+Name: cluster, dtype: int64
+cluster finger prints mean z score: 
+                    C-1        C0        C1        C2
+MPQtotal       0.071410 -0.421706  0.537942 -0.767627
+hr            -0.625578 -0.487423  0.224011  0.649829
+MinutesAsleep  0.525012  0.737658 -0.693772  0.227586
+cluster finger prints std z score: 
+                    C-1       C0        C1        C2
+MPQtotal       0.953664  0.64888  0.953771  0.791819
+hr             0.698900  0.58868  1.111210  0.790248
+MinutesAsleep  0.621769  0.64097  0.959837  0.543778
+Patient IDs:  RCS02
+Washout Period:  60
+Activity bin before pain survey:  30
+Activity bin after pain survey:  30
+Sleep binning direction:  backward
+Number of jobs:  -1
+Column: MPQtotal
+Shapiro-Wilk Test:
+Statistic: 0.9812560081481934
+p-value: 9.52235350268893e-05
+
+
+Column: painVAS
+Shapiro-Wilk Test:
+Statistic: 0.9701772332191467
+p-value: 6.741149150002457e-07
+
+
+Column: mayoNRS
+Shapiro-Wilk Test:
+Statistic: 0.9507737755775452
+p-value: 8.67715899133259e-10
+
+
+Column: hr
+Shapiro-Wilk Test:
+Statistic: 0.9667168259620667
+p-value: 1.763947921062936e-07
+
+
+Column: steps
+Shapiro-Wilk Test:
+Statistic: 0.45466673374176025
+p-value: 4.8406681042709176e-32
+
+
+Column: calories
+Shapiro-Wilk Test:
+Statistic: 0.6557498574256897
+p-value: 1.0517233796106481e-26
+
+
+Column: Efficiency
+Shapiro-Wilk Test:
+Statistic: 0.9692491292953491
+p-value: 4.6672329290231573e-07
+
+
+Column: MinutesAsleep
+Shapiro-Wilk Test:
+Statistic: 0.9640493988990784
+p-value: 6.615709935431369e-08
+
+
+Column: RelativeStartTime
+Shapiro-Wilk Test:
+Statistic: 0.6483043432235718
+p-value: 6.0957500817723516e-27
+
+
+Cluster counts: 
+ 1    174
+ 2     96
+ 0     62
+-1     39
+Name: cluster, dtype: int64
+Relative Validity Index:  0.25736813097775124
+Validity Index: -0.6691871683264445
+Cluster Counts:
+ 1    174
+ 2     96
+ 0     62
+-1     39
+Name: cluster, dtype: int64
+cluster finger prints mean z score: 
+                    C-1        C0        C1        C2
+MPQtotal       1.252067  0.392450 -0.072232 -0.631189
+hr            -0.303877  0.449665 -0.570725  0.867480
+MinutesAsleep -0.823182 -1.051806  0.546570  0.023051
+cluster finger prints std z score: 
+                    C-1        C0        C1        C2
+MPQtotal       1.012854  0.808567  0.871807  0.731296
+hr             0.715185  0.740470  0.659007  1.015299
+MinutesAsleep  0.964116  0.987999  0.696860  0.688805
+Patient IDs:  RCS02
+Washout Period:  60
+Activity bin before pain survey:  30
+Activity bin after pain survey:  0
+Sleep binning direction:  forward
+Number of jobs:  -1
+Column: MPQtotal
+Shapiro-Wilk Test:
+Statistic: 0.979386031627655
+p-value: 5.195860649109818e-05
+
+
+Column: painVAS
+Shapiro-Wilk Test:
+Statistic: 0.9724348187446594
+p-value: 2.447896576995845e-06
+
+
+Column: mayoNRS
+Shapiro-Wilk Test:
+Statistic: 0.9500929713249207
+p-value: 1.1535548072316715e-09
+
+
+Column: hr
+Shapiro-Wilk Test:
+Statistic: 0.9779927134513855
+p-value: 2.7173760827281512e-05
+
+
+Column: steps
+Shapiro-Wilk Test:
+Statistic: 0.4080372452735901
+p-value: 1.3658343634008663e-32
+
+
+Column: calories
+Shapiro-Wilk Test:
+Statistic: 0.680853009223938
+p-value: 1.7447168848039076e-25
+
+
+Column: Efficiency
+Shapiro-Wilk Test:
+Statistic: 0.9778235554695129
+p-value: 2.5150293367914855e-05
+
+
+Column: MinutesAsleep
+Shapiro-Wilk Test:
+Statistic: 0.9518699645996094
+p-value: 1.9459007738475975e-09
+
+
+Column: RelativeStartTime
+Shapiro-Wilk Test:
+Statistic: 0.6970562934875488
+p-value: 6.2941831121000395e-25
+
+
+Cluster counts: 
+ 3    99
+ 1    72
+-1    69
+ 0    64
+ 2    55
+Name: cluster, dtype: int64
+Relative Validity Index:  0.25777309528954806
+Validity Index: -0.5951041532227545
+Cluster Counts:
+ 3    99
+ 1    72
+-1    69
+ 0    64
+ 2    55
+Name: cluster, dtype: int64
+cluster finger prints mean z score: 
+                    C-1        C0        C1        C2        C3
+MPQtotal      -0.179402 -0.174895  1.024089  0.393663 -0.725393
+hr             0.372812  0.887447 -0.211746 -0.952913 -0.150149
+MinutesAsleep  0.041820 -0.846252 -0.636793  0.463402  0.723601
+cluster finger prints std z score: 
+                    C-1        C0        C1        C2        C3
+MPQtotal       0.984141  0.661077  0.907299  0.581512  0.704176
+hr             1.118193  0.979061  0.734509  0.571462  0.656601
+MinutesAsleep  0.905501  0.827799  1.007336  0.604550  0.548608
+Patient IDs:  RCS02
+Washout Period:  60
+Activity bin before pain survey:  0
+Activity bin after pain survey:  30
+Sleep binning direction:  forward
+Number of jobs:  -1
+Column: MPQtotal
+Shapiro-Wilk Test:
+Statistic: 0.9815622568130493
+p-value: 0.00014895260392222553
+
+
+Column: painVAS
+Shapiro-Wilk Test:
+Statistic: 0.9728450179100037
+p-value: 2.8977901820326224e-06
+
+
+Column: mayoNRS
+Shapiro-Wilk Test:
+Statistic: 0.9534124135971069
+p-value: 3.093685752020292e-09
+
+
+Column: hr
+Shapiro-Wilk Test:
+Statistic: 0.9655189514160156
+p-value: 1.705633962956199e-07
+
+
+Column: steps
+Shapiro-Wilk Test:
+Statistic: 0.43035072088241577
+p-value: 4.020352604159049e-32
+
+
+Column: calories
+Shapiro-Wilk Test:
+Statistic: 0.5897265672683716
+p-value: 2.9090218474646726e-28
+
+
+Column: Efficiency
+Shapiro-Wilk Test:
+Statistic: 0.9758167862892151
+p-value: 1.0252562788082287e-05
+
+
+Column: MinutesAsleep
+Shapiro-Wilk Test:
+Statistic: 0.9549100399017334
+p-value: 4.897112937385373e-09
+
+
+Column: RelativeStartTime
+Shapiro-Wilk Test:
+Statistic: 0.6955206990242004
+p-value: 5.561018745016026e-25
+
+
+Cluster counts: 
+ 0    231
+ 2     67
+ 1     52
+-1      9
+Name: cluster, dtype: int64
+Relative Validity Index:  0.3906226024598343
+Validity Index: -0.3854091574794224
+Cluster Counts:
+ 0    231
+ 2     67
+ 1     52
+-1      9
+Name: cluster, dtype: int64
+cluster finger prints mean z score: 
+                    C-1        C0        C1        C2
+MPQtotal       0.385348 -0.195782  0.864822 -0.047957
+hr             0.283373 -0.273089 -0.089336  0.972815
+MinutesAsleep -0.222906  0.482844 -1.155424 -0.738042
+cluster finger prints std z score: 
+                    C-1        C0        C1        C2
+MPQtotal       1.621216  0.954213  0.930320  0.730051
+hr             0.663153  0.887566  0.645662  1.039095
+MinutesAsleep  0.933545  0.641755  0.944260  0.884307
+Patient IDs:  RCS02
+Washout Period:  60
+Activity bin before pain survey:  30
+Activity bin after pain survey:  30
+Sleep binning direction:  forward
+Number of jobs:  -1
+Column: MPQtotal
+Shapiro-Wilk Test:
+Statistic: 0.9794249534606934
+p-value: 4.6427281631622463e-05
+
+
+Column: painVAS
+Shapiro-Wilk Test:
+Statistic: 0.9718485474586487
+p-value: 1.64942878200236e-06
+
+
+Column: mayoNRS
+Shapiro-Wilk Test:
+Statistic: 0.9516456127166748
+p-value: 1.4889253163730132e-09
+
+
+Column: hr
+Shapiro-Wilk Test:
+Statistic: 0.9697021245956421
+p-value: 6.987887672949e-07
+
+
+Column: steps
+Shapiro-Wilk Test:
+Statistic: 0.4667648673057556
+p-value: 1.6420629874419089e-31
+
+
+Column: calories
+Shapiro-Wilk Test:
+Statistic: 0.6697882413864136
+p-value: 5.1103290745759696e-26
+
+
+Column: Efficiency
+Shapiro-Wilk Test:
+Statistic: 0.9766010046005249
+p-value: 1.2587242963491008e-05
+
+
+Column: MinutesAsleep
+Shapiro-Wilk Test:
+Statistic: 0.9535156488418579
+p-value: 2.619857886188015e-09
+
+
+Column: RelativeStartTime
+Shapiro-Wilk Test:
+Statistic: 0.6996535062789917
+p-value: 5.361257963177238e-25
+
+
+Cluster counts: 
+0    133
+1     82
+2     80
+3     69
+Name: cluster, dtype: int64
+Relative Validity Index:  0.3467953212104188
+Validity Index: -0.7819033050544237
+Cluster Counts:
+0    133
+1     82
+2     80
+3     69
+Name: cluster, dtype: int64
+cluster finger prints mean z score: 
+               C-1        C0        C1        C2        C3
+MPQtotal       NaN  0.807165 -0.384517 -0.832288 -0.133905
+hr             NaN -0.468144 -0.541159  0.533439  0.927002
+MinutesAsleep  NaN -0.347641  0.746076  0.485714 -0.779698
+cluster finger prints std z score: 
+               C-1        C0        C1        C2        C3
+MPQtotal       NaN  0.860772  0.643312  0.700795  0.751944
+hr             NaN  0.769690  0.587683  0.787233  1.040683
+MinutesAsleep  NaN  1.020631  0.544138  0.582245  0.884463
+Patient IDs:  RCS02
+Washout Period:  120
+Activity bin before pain survey:  60
+Activity bin after pain survey:  0
+Sleep binning direction:  backward
+Number of jobs:  -1
+Column: MPQtotal
+Shapiro-Wilk Test:
+Statistic: 0.9806728959083557
+p-value: 0.00014845676196273416
+
+
+Column: painVAS
+Shapiro-Wilk Test:
+Statistic: 0.9707873463630676
+p-value: 2.176998350478243e-06
+
+
+Column: mayoNRS
+Shapiro-Wilk Test:
+Statistic: 0.9491715431213379
+p-value: 1.7959541631640263e-09
+
+
+Column: hr
+Shapiro-Wilk Test:
+Statistic: 0.9749497771263123
+p-value: 1.1651716704363935e-05
+
+
+Column: steps
+Shapiro-Wilk Test:
+Statistic: 0.47934114933013916
+p-value: 2.1481248958452027e-30
+
+
+Column: calories
+Shapiro-Wilk Test:
+Statistic: 0.7381408214569092
+p-value: 7.26370184208662e-23
+
+
+Column: Efficiency
+Shapiro-Wilk Test:
+Statistic: 0.9687266945838928
+p-value: 9.935367870639311e-07
+
+
+Column: MinutesAsleep
+Shapiro-Wilk Test:
+Statistic: 0.9629907608032227
+p-value: 1.2850971131683764e-07
+
+
+Column: RelativeStartTime
+Shapiro-Wilk Test:
+Statistic: 0.6606016159057617
+p-value: 1.4228253971759012e-25
+
+
+Cluster counts: 
+ 0    115
+ 3     59
+ 2     58
+ 1     56
+-1     54
+Name: cluster, dtype: int64
+Relative Validity Index:  0.37815766393551964
+Validity Index: -0.3917685306276604
+Cluster Counts:
+ 0    115
+ 3     59
+ 2     58
+ 1     56
+-1     54
+Name: cluster, dtype: int64
+cluster finger prints mean z score: 
+                    C-1        C0        C1        C2        C3
+MPQtotal       0.136222  0.624314 -0.489038 -0.881795 -0.010540
+hr            -0.536772  0.265460  1.093857 -0.301573 -0.767913
+MinutesAsleep  0.188836 -0.887902  0.180035  0.634032  0.763657
+cluster finger prints std z score: 
+                    C-1        C0        C1        C2        C3
+MPQtotal       1.028386  0.996871  0.579428  0.781333  0.509807
+hr             0.796374  0.866957  0.936802  0.682884  0.543290
+MinutesAsleep  0.713065  0.950791  0.517508  0.667248  0.583712
+Patient IDs:  RCS02
+Washout Period:  120
+Activity bin before pain survey:  0
+Activity bin after pain survey:  60
+Sleep binning direction:  backward
+Number of jobs:  -1
+Column: MPQtotal
+Shapiro-Wilk Test:
+Statistic: 0.9816930294036865
+p-value: 0.0002668807574082166
+
+
+Column: painVAS
+Shapiro-Wilk Test:
+Statistic: 0.9715465903282166
+p-value: 3.330043227833812e-06
+
+
+Column: mayoNRS
+Shapiro-Wilk Test:
+Statistic: 0.952595591545105
+p-value: 5.6718172380954e-09
+
+
+Column: hr
+Shapiro-Wilk Test:
+Statistic: 0.9544901847839355
+p-value: 9.941310885608345e-09
+
+
+Column: steps
+Shapiro-Wilk Test:
+Statistic: 0.46746283769607544
+p-value: 1.6648178544368215e-30
+
+
+Column: calories
+Shapiro-Wilk Test:
+Statistic: 0.6110552549362183
+p-value: 6.449246434158862e-27
+
+
+Column: Efficiency
+Shapiro-Wilk Test:
+Statistic: 0.969546914100647
+p-value: 1.5460259419342037e-06
+
+
+Column: MinutesAsleep
+Shapiro-Wilk Test:
+Statistic: 0.9634422063827515
+p-value: 1.7351047176816792e-07
+
+
+Column: RelativeStartTime
+Shapiro-Wilk Test:
+Statistic: 0.6624251008033752
+p-value: 2.236430280543851e-25
+
+
+Cluster counts: 
+ 1    123
+ 0     84
+ 2     73
+ 3     50
+-1      8
+Name: cluster, dtype: int64
+Relative Validity Index:  0.3699208905536991
+Validity Index: -0.6953726517875921
+Cluster Counts:
+ 1    123
+ 0     84
+ 2     73
+ 3     50
+-1      8
+Name: cluster, dtype: int64
+cluster finger prints mean z score: 
+                    C-1        C0        C1        C2        C3
+MPQtotal      -0.819060  0.961964 -0.189862 -0.001578 -1.015685
+hr             0.431827 -0.509485  0.833377 -0.644059 -0.322938
+MinutesAsleep  0.459925 -0.386773 -0.452590  0.759589  0.580564
+cluster finger prints std z score: 
+                    C-1        C0        C1        C2        C3
+MPQtotal       0.728290  0.915081  0.786814  0.585838  0.720458
+hr             0.381545  0.706697  0.958962  0.572469  0.562858
+MinutesAsleep  0.395809  0.911745  0.992157  0.634337  0.645495
+Patient IDs:  RCS02
+Washout Period:  120
+Activity bin before pain survey:  60
+Activity bin after pain survey:  60
+Sleep binning direction:  backward
+Number of jobs:  -1
+Column: MPQtotal
+Shapiro-Wilk Test:
+Statistic: 0.9804195761680603
+p-value: 0.00012512032117228955
+
+
+Column: painVAS
+Shapiro-Wilk Test:
+Statistic: 0.9711930751800537
+p-value: 2.3899576717667514e-06
+
+
+Column: mayoNRS
+Shapiro-Wilk Test:
+Statistic: 0.9501796364784241
+p-value: 2.1982808906528817e-09
+
+
+Column: hr
+Shapiro-Wilk Test:
+Statistic: 0.964267909526825
+p-value: 1.8553447489466635e-07
+
+
+Column: steps
+Shapiro-Wilk Test:
+Statistic: 0.5685747861862183
+p-value: 2.697395128126813e-28
+
+
+Column: calories
+Shapiro-Wilk Test:
+Statistic: 0.7342462539672852
+p-value: 4.4345263584365524e-23
+
+
+Column: Efficiency
+Shapiro-Wilk Test:
+Statistic: 0.9697836637496948
+p-value: 1.385640985063219e-06
+
+
+Column: MinutesAsleep
+Shapiro-Wilk Test:
+Statistic: 0.964423656463623
+p-value: 1.958900668341812e-07
+
+
+Column: RelativeStartTime
+Shapiro-Wilk Test:
+Statistic: 0.6591923236846924
+p-value: 1.0953178362003034e-25
+
+
+Cluster counts: 
+-1    85
+ 1    78
+ 0    75
+ 3    55
+ 2    51
+Name: cluster, dtype: int64
+Relative Validity Index:  0.3236790599592522
+Validity Index: -0.472015042642382
+Cluster Counts:
+-1    85
+ 1    78
+ 0    75
+ 3    55
+ 2    51
+Name: cluster, dtype: int64
+cluster finger prints mean z score: 
+                    C-1        C0        C1        C2        C3
+MPQtotal      -0.154755  0.962085 -0.349798 -0.780269  0.146832
+hr            -0.206183 -0.010350  1.052570 -0.523819 -0.674252
+MinutesAsleep  0.162602 -0.844771 -0.368007  0.620935  0.846791
+cluster finger prints std z score: 
+                    C-1        C0        C1        C2        C3
+MPQtotal       1.073888  0.970140  0.605319  0.651897  0.523230
+hr             0.895874  0.779717  0.951383  0.554380  0.569212
+MinutesAsleep  0.722077  0.957860  0.931610  0.672319  0.568366
+Patient IDs:  RCS02
+Washout Period:  120
+Activity bin before pain survey:  60
+Activity bin after pain survey:  0
+Sleep binning direction:  forward
+Number of jobs:  -1
+Column: MPQtotal
+Shapiro-Wilk Test:
+Statistic: 0.9791505336761475
+p-value: 9.596280142432079e-05
+
+
+Column: painVAS
+Shapiro-Wilk Test:
+Statistic: 0.9737541079521179
+p-value: 9.671107363828924e-06
+
+
+Column: mayoNRS
+Shapiro-Wilk Test:
+Statistic: 0.9500016570091248
+p-value: 3.4669811466159217e-09
+
+
+Column: hr
+Shapiro-Wilk Test:
+Statistic: 0.9708436727523804
+p-value: 3.086095375692821e-06
+
+
+Column: steps
+Shapiro-Wilk Test:
+Statistic: 0.5015628337860107
+p-value: 1.693599598517835e-29
+
+
+Column: calories
+Shapiro-Wilk Test:
+Statistic: 0.7530354857444763
+p-value: 5.886129694299527e-22
+
+
+Column: Efficiency
+Shapiro-Wilk Test:
+Statistic: 0.9757457375526428
+p-value: 2.1923868189333007e-05
+
+
+Column: MinutesAsleep
+Shapiro-Wilk Test:
+Statistic: 0.9505964517593384
+p-value: 4.1001886330604975e-09
+
+
+Column: RelativeStartTime
+Shapiro-Wilk Test:
+Statistic: 0.7031044960021973
+p-value: 8.06645537670948e-24
+
+
+Cluster counts: 
+1    188
+0    144
+Name: cluster, dtype: int64
+Relative Validity Index:  0.46068617922566063
+Validity Index: -0.3772423803733719
+Cluster Counts:
+1    188
+0    144
+Name: cluster, dtype: int64
+cluster finger prints mean z score: 
+               C-1        C0        C1
+MPQtotal       NaN  0.492563 -0.377283
+hr             NaN  0.287438 -0.220165
+MinutesAsleep  NaN -0.749896  0.574388
+cluster finger prints std z score: 
+               C-1        C0        C1
+MPQtotal       NaN  1.007846  0.817751
+hr             NaN  1.033944  0.919536
+MinutesAsleep  NaN  0.940206  0.578523
+Patient IDs:  RCS02
+Washout Period:  120
+Activity bin before pain survey:  0
+Activity bin after pain survey:  60
+Sleep binning direction:  forward
+Number of jobs:  -1
+Column: MPQtotal
+Shapiro-Wilk Test:
+Statistic: 0.9794297218322754
+p-value: 0.00010310541983926669
+
+
+Column: painVAS
+Shapiro-Wilk Test:
+Statistic: 0.9729217886924744
+p-value: 6.507782018161379e-06
+
+
+Column: mayoNRS
+Shapiro-Wilk Test:
+Statistic: 0.9521652460098267
+p-value: 5.906471312044914e-09
+
+
+Column: hr
+Shapiro-Wilk Test:
+Statistic: 0.953683614730835
+p-value: 9.205936457590269e-09
+
+
+Column: steps
+Shapiro-Wilk Test:
+Statistic: 0.483289897441864
+p-value: 5.394592216488563e-30
+
+
+Column: calories
+Shapiro-Wilk Test:
+Statistic: 0.6243195533752441
+p-value: 2.161884558189058e-26
+
+
+Column: Efficiency
+Shapiro-Wilk Test:
+Statistic: 0.974967896938324
+p-value: 1.4934375940356404e-05
+
+
+Column: MinutesAsleep
+Shapiro-Wilk Test:
+Statistic: 0.9514045715332031
+p-value: 4.74420147611454e-09
+
+
+Column: RelativeStartTime
+Shapiro-Wilk Test:
+Statistic: 0.7019433975219727
+p-value: 6.286626219058475e-24
+
+
+Cluster counts: 
+1    170
+0    114
+2     50
+Name: cluster, dtype: int64
+Relative Validity Index:  0.4143747263949846
+Validity Index: -0.28029219249851056
+Cluster Counts:
+1    170
+0    114
+2     50
+Name: cluster, dtype: int64
+cluster finger prints mean z score: 
+               C-1        C0        C1        C2
+MPQtotal       NaN  0.857370 -0.492951 -0.278769
+hr             NaN -0.290599 -0.099646  1.001362
+MinutesAsleep  NaN -0.619394  0.623732 -0.708468
+cluster finger prints std z score: 
+               C-1        C0        C1        C2
+MPQtotal       NaN  0.880254  0.742859  0.702561
+hr             NaN  0.785725  0.893724  1.176288
+MinutesAsleep  NaN  1.010229  0.560461  0.790522
+Patient IDs:  RCS02
+Washout Period:  120
+Activity bin before pain survey:  60
+Activity bin after pain survey:  60
+Sleep binning direction:  forward
+Number of jobs:  -1
+Column: MPQtotal
+Shapiro-Wilk Test:
+Statistic: 0.9791162610054016
+p-value: 8.249725942732766e-05
+
+
+Column: painVAS
+Shapiro-Wilk Test:
+Statistic: 0.9731876254081726
+p-value: 6.587011739611626e-06
+
+
+Column: mayoNRS
+Shapiro-Wilk Test:
+Statistic: 0.951825737953186
+p-value: 4.725337454658529e-09
+
+
+Column: hr
+Shapiro-Wilk Test:
+Statistic: 0.9598668813705444
+p-value: 5.50425554024514e-08
+
+
+Column: steps
+Shapiro-Wilk Test:
+Statistic: 0.5845996141433716
+p-value: 1.3014256858007947e-27
+
+
+Column: calories
+Shapiro-Wilk Test:
+Statistic: 0.7524126768112183
+p-value: 3.8389886922499227e-22
+
+
+Column: Efficiency
+Shapiro-Wilk Test:
+Statistic: 0.9752242565155029
+p-value: 1.5181867638602853e-05
+
+
+Column: MinutesAsleep
+Shapiro-Wilk Test:
+Statistic: 0.9508814811706543
+p-value: 3.601468234748495e-09
+
+
+Column: RelativeStartTime
+Shapiro-Wilk Test:
+Statistic: 0.7043437957763672
+p-value: 6.0401833112542625e-24
+
+
+Cluster counts: 
+ 0    218
+ 2     56
+ 1     56
+-1      7
+Name: cluster, dtype: int64
+Relative Validity Index:  0.473782523942523
+Validity Index: -0.4585570444961356
+Cluster Counts:
+ 0    218
+ 2     56
+ 1     56
+-1      7
+Name: cluster, dtype: int64
+cluster finger prints mean z score: 
+                    C-1        C0        C1        C2
+MPQtotal       0.781025 -0.191813 -0.202183  0.851255
+hr             0.214715 -0.260769  0.980598  0.007699
+MinutesAsleep -0.500376  0.490217 -0.769405 -1.076393
+cluster finger prints std z score: 
+                    C-1        C0        C1        C2
+MPQtotal       1.117706  0.956376  0.728488  0.921229
+hr             1.175392  0.880438  1.099346  0.674596
+MinutesAsleep  1.094485  0.631387  0.814541  0.996721
+Meta Grid Search Results
+Patient id:  RCS02
+Results:  [{'best_params': {'min_cluster_size': 50, 'min_samples': 6, 'cluster_selection_epsilon': 0, 'metric': 'correlation', 'cluster_selection_method': 'eom', 'alpha': 1.0, 'allow_single_cluster': False, 'gen_min_span_tree': True}, 'vi': -0.7538812400859979}, {'best_params': {'min_cluster_size': 50, 'min_samples': 1, 'cluster_selection_epsilon': 0, 'metric': 'correlation', 'cluster_selection_method': 'eom', 'alpha': 1.0, 'allow_single_cluster': False, 'gen_min_span_tree': True}, 'vi': -0.6349127330269431}, {'best_params': {'min_cluster_size': 50, 'min_samples': 1, 'cluster_selection_epsilon': 0, 'metric': 'correlation', 'cluster_selection_method': 'eom', 'alpha': 1.0, 'allow_single_cluster': False, 'gen_min_span_tree': True}, 'vi': -0.6691871683264445}, {'best_params': {'min_cluster_size': 50, 'min_samples': 9, 'cluster_selection_epsilon': 0, 'metric': 'correlation', 'cluster_selection_method': 'eom', 'alpha': 1.0, 'allow_single_cluster': False, 'gen_min_span_tree': True}, 'vi': -0.5951041532227545}, {'best_params': {'min_cluster_size': 50, 'min_samples': 7, 'cluster_selection_epsilon': 0, 'metric': 'correlation', 'cluster_selection_method': 'eom', 'alpha': 1.0, 'allow_single_cluster': False, 'gen_min_span_tree': True}, 'vi': -0.3854091574794224}, {'best_params': {'min_cluster_size': 50, 'min_samples': 1, 'cluster_selection_epsilon': 0, 'metric': 'correlation', 'cluster_selection_method': 'eom', 'alpha': 1.0, 'allow_single_cluster': False, 'gen_min_span_tree': True}, 'vi': -0.7819033050544237}, {'best_params': {'min_cluster_size': 50, 'min_samples': 6, 'cluster_selection_epsilon': 0, 'metric': 'correlation', 'cluster_selection_method': 'leaf', 'alpha': 1.0, 'allow_single_cluster': False, 'gen_min_span_tree': True}, 'vi': -0.3917685306276604}, {'best_params': {'min_cluster_size': 50, 'min_samples': 1, 'cluster_selection_epsilon': 0, 'metric': 'correlation', 'cluster_selection_method': 'eom', 'alpha': 1.0, 'allow_single_cluster': False, 'gen_min_span_tree': True}, 'vi': -0.6953726517875921}, {'best_params': {'min_cluster_size': 50, 'min_samples': 6, 'cluster_selection_epsilon': 0, 'metric': 'correlation', 'cluster_selection_method': 'leaf', 'alpha': 1.0, 'allow_single_cluster': False, 'gen_min_span_tree': True}, 'vi': -0.472015042642382}, {'best_params': {'min_cluster_size': 50, 'min_samples': 1, 'cluster_selection_epsilon': 1, 'metric': 'correlation', 'cluster_selection_method': 'eom', 'alpha': 1.0, 'allow_single_cluster': False, 'gen_min_span_tree': True}, 'vi': -0.3772423803733719}, {'best_params': {'min_cluster_size': 50, 'min_samples': 1, 'cluster_selection_epsilon': 0, 'metric': 'correlation', 'cluster_selection_method': 'eom', 'alpha': 1.0, 'allow_single_cluster': False, 'gen_min_span_tree': True}, 'vi': -0.28029219249851056}, {'best_params': {'min_cluster_size': 50, 'min_samples': 5, 'cluster_selection_epsilon': 0, 'metric': 'correlation', 'cluster_selection_method': 'eom', 'alpha': 1.0, 'allow_single_cluster': False, 'gen_min_span_tree': True}, 'vi': -0.4585570444961356}]
+Overall best params:  {'min_cluster_size': 50, 'min_samples': 1, 'cluster_selection_epsilon': 0, 'metric': 'correlation', 'cluster_selection_method': 'eom', 'alpha': 1.0, 'allow_single_cluster': False, 'gen_min_span_tree': True}
+Overall best validity index:  -0.28029219249851056
+Patient IDs:  RCS04
+Washout Period:  60
+Activity bin before pain survey:  30
+Activity bin after pain survey:  0
+Sleep binning direction:  backward
+Number of jobs:  -1
+Column: MPQtotal
+Shapiro-Wilk Test:
+Statistic: 0.9160769581794739
+p-value: 1.586685101882812e-12
+
+
+Column: painVAS
+Shapiro-Wilk Test:
+Statistic: 0.9772657155990601
+p-value: 4.9728419980965555e-05
+
+
+Column: mayoNRS
+Shapiro-Wilk Test:
+Statistic: 0.9255362153053284
+p-value: 1.1312520364903378e-11
+
+
+Column: hr
+Shapiro-Wilk Test:
+Statistic: 0.9273900985717773
+p-value: 1.6946725273081498e-11
+
+
+Column: steps
+Shapiro-Wilk Test:
+Statistic: 0.6874306797981262
+p-value: 3.7984567665041775e-24
+
+
+Column: calories
+Shapiro-Wilk Test:
+Statistic: 0.7809284925460815
+p-value: 1.3396903302015897e-20
+
+
+Column: Efficiency
+Shapiro-Wilk Test:
+Statistic: 0.973279595375061
+p-value: 9.658186172600836e-06
+
+
+Column: MinutesAsleep
+Shapiro-Wilk Test:
+Statistic: 0.9060769081115723
+p-value: 2.3253710697453134e-13
+
+
+Column: RelativeStartTime
+Shapiro-Wilk Test:
+Statistic: 0.660855770111084
+p-value: 5.279603463915877e-25
+
+
+Cluster counts: 
+ 0    131
+ 2    123
+ 1     59
+-1     13
+Name: cluster, dtype: int64
+Relative Validity Index:  0.3079419297004375
+Validity Index: -0.7333837857019261
+Cluster Counts:
+ 0    131
+ 2    123
+ 1     59
+-1     13
+Name: cluster, dtype: int64
+cluster finger prints mean z score: 
+                    C-1        C0        C1        C2
+MPQtotal       0.807508 -0.339088  1.293712 -0.344765
+hr            -0.713727 -0.538029 -0.371567  0.826688
+MinutesAsleep  0.497411  0.660538 -0.555090 -0.489809
+cluster finger prints std z score: 
+                    C-1        C0        C1        C2
+MPQtotal       0.723186  0.527782  1.145604  0.760096
+hr             0.431249  0.549644  0.670688  0.998587
+MinutesAsleep  0.510322  0.389379  1.025938  1.048243
+Patient IDs:  RCS04
+Washout Period:  60
+Activity bin before pain survey:  0
+Activity bin after pain survey:  30
+Sleep binning direction:  backward
+Number of jobs:  -1
+Column: MPQtotal
+Shapiro-Wilk Test:
+Statistic: 0.9172148704528809
+p-value: 1.7944490294727333e-12
+
+
+Column: painVAS
+Shapiro-Wilk Test:
+Statistic: 0.9773382544517517
+p-value: 4.842790076509118e-05
+
+
+Column: mayoNRS
+Shapiro-Wilk Test:
+Statistic: 0.925693929195404
+p-value: 1.0581605036641406e-11
+
+
+Column: hr
+Shapiro-Wilk Test:
+Statistic: 0.9651472568511963
+p-value: 4.4827959300164366e-07
+
+
+Column: steps
+Shapiro-Wilk Test:
+Statistic: 0.8462463617324829
+p-value: 2.0161323056008172e-17
+
+
+Column: calories
+Shapiro-Wilk Test:
+Statistic: 0.901025652885437
+p-value: 8.307170598111091e-14
+
+
+Column: Efficiency
+Shapiro-Wilk Test:
+Statistic: 0.9735285043716431
+p-value: 1.0010731784859672e-05
+
+
+Column: MinutesAsleep
+Shapiro-Wilk Test:
+Statistic: 0.9092432260513306
+p-value: 3.7713403363767717e-13
+
+
+Column: RelativeStartTime
+Shapiro-Wilk Test:
+Statistic: 0.6566607356071472
+p-value: 3.3167895883479336e-25
+
+
+Cluster counts: 
+ 0    118
+ 2    111
+ 1     93
+-1      6
+Name: cluster, dtype: int64
+Relative Validity Index:  0.38169991504848355
+Validity Index: -0.6754934459731017
+Cluster Counts:
+ 0    118
+ 2    111
+ 1     93
+-1      6
+Name: cluster, dtype: int64
+cluster finger prints mean z score: 
+                    C-1        C0        C1        C2
+MPQtotal       0.101403  0.695549 -0.688803 -0.167788
+hr             0.395374  0.042038  0.793110 -0.730558
+MinutesAsleep -0.203722 -0.895634  0.375570  0.648460
+cluster finger prints std z score: 
+                    C-1        C0        C1        C2
+MPQtotal       1.198049  1.130946  0.670123  0.481138
+hr             1.287155  0.748158  0.961770  0.675806
+MinutesAsleep  1.085765  0.960439  0.629669  0.457322
+Patient IDs:  RCS04
+Washout Period:  60
+Activity bin before pain survey:  30
+Activity bin after pain survey:  30
+Sleep binning direction:  backward
+Number of jobs:  -1
+Column: MPQtotal
+Shapiro-Wilk Test:
+Statistic: 0.9177125692367554
+p-value: 1.787569441427661e-12
+
+
+Column: painVAS
+Shapiro-Wilk Test:
+Statistic: 0.9767358303070068
+p-value: 3.5326072975294665e-05
+
+
+Column: mayoNRS
+Shapiro-Wilk Test:
+Statistic: 0.925321638584137
+p-value: 8.82583502809231e-12
+
+
+Column: hr
+Shapiro-Wilk Test:
+Statistic: 0.9273858666419983
+p-value: 1.3866070618095971e-11
+
+
+Column: steps
+Shapiro-Wilk Test:
+Statistic: 0.861807644367218
+p-value: 1.4729519140948058e-16
+
+
+Column: calories
+Shapiro-Wilk Test:
+Statistic: 0.9136902093887329
+p-value: 7.997880786467237e-13
+
+
+Column: Efficiency
+Shapiro-Wilk Test:
+Statistic: 0.9732757806777954
+p-value: 8.50002106744796e-06
+
+
+Column: MinutesAsleep
+Shapiro-Wilk Test:
+Statistic: 0.9085025787353516
+p-value: 2.940628697576525e-13
+
+
+Column: RelativeStartTime
+Shapiro-Wilk Test:
+Statistic: 0.6590640544891357
+p-value: 3.3457013405242837e-25
+
+
+Cluster counts: 
+0    203
+1    127
+Name: cluster, dtype: int64
+Relative Validity Index:  0.49300031319007437
+Validity Index: -0.521335919528029
+Cluster Counts:
+0    203
+1    127
+Name: cluster, dtype: int64
+cluster finger prints mean z score: 
+               C-1        C0        C1
+MPQtotal       NaN  0.090771 -0.145091
+hr             NaN  0.399497 -0.638566
+MinutesAsleep  NaN -0.404698  0.646880
+cluster finger prints std z score: 
+               C-1        C0        C1
+MPQtotal       NaN  1.192656  0.551502
+hr             NaN  0.996067  0.600273
+MinutesAsleep  NaN  1.043331  0.433917
+Patient IDs:  RCS04
+Washout Period:  60
+Activity bin before pain survey:  30
+Activity bin after pain survey:  0
+Sleep binning direction:  forward
+Number of jobs:  -1
+Column: MPQtotal
+Shapiro-Wilk Test:
+Statistic: 0.9245396256446838
+p-value: 5.796438416055816e-12
+
+
+Column: painVAS
+Shapiro-Wilk Test:
+Statistic: 0.9789824485778809
+p-value: 8.200161391869187e-05
+
+
+Column: mayoNRS
+Shapiro-Wilk Test:
+Statistic: 0.9266764521598816
+p-value: 9.249111893039341e-12
+
+
+Column: hr
+Shapiro-Wilk Test:
+Statistic: 0.928960919380188
+p-value: 1.5397303224085057e-11
+
+
+Column: steps
+Shapiro-Wilk Test:
+Statistic: 0.6881081461906433
+p-value: 1.9557987820568453e-24
+
+
+Column: calories
+Shapiro-Wilk Test:
+Statistic: 0.7799592614173889
+p-value: 6.354909971682751e-21
+
+
+Column: Efficiency
+Shapiro-Wilk Test:
+Statistic: 0.9734458923339844
+p-value: 7.77966943132924e-06
+
+
+Column: MinutesAsleep
+Shapiro-Wilk Test:
+Statistic: 0.9095895290374756
+p-value: 2.7623489975460436e-13
+
+
+Column: RelativeStartTime
+Shapiro-Wilk Test:
+Statistic: 0.6889075040817261
+p-value: 2.0807648018508478e-24
+
+
+Cluster counts: 
+ 0    182
+ 1     87
+ 2     63
+-1      3
+Name: cluster, dtype: int64
+Relative Validity Index:  0.4284602623841301
+Validity Index: -0.7232407018108786
+Cluster Counts:
+ 0    182
+ 1     87
+ 2     63
+-1      3
+Name: cluster, dtype: int64
+cluster finger prints mean z score: 
+                    C-1        C0        C1        C2
+MPQtotal      -0.100274 -0.423675  1.037701 -0.204290
+hr             1.098051 -0.122032 -0.417088  0.876227
+MinutesAsleep  0.156733  0.665573 -0.650465 -1.031969
+cluster finger prints std z score: 
+                    C-1        C0        C1        C2
+MPQtotal       0.270538  0.671562  1.098311  0.574604
+hr             0.269197  0.883759  0.647852  1.188395
+MinutesAsleep  0.257330  0.419261  0.971517  0.775435
+Patient IDs:  RCS04
+Washout Period:  60
+Activity bin before pain survey:  0
+Activity bin after pain survey:  30
+Sleep binning direction:  forward
+Number of jobs:  -1
+Column: MPQtotal
+Shapiro-Wilk Test:
+Statistic: 0.9269103407859802
+p-value: 8.399381017099028e-12
+
+
+Column: painVAS
+Shapiro-Wilk Test:
+Statistic: 0.9794573783874512
+p-value: 9.377559035783634e-05
+
+
+Column: mayoNRS
+Shapiro-Wilk Test:
+Statistic: 0.9271177053451538
+p-value: 8.795541552031327e-12
+
+
+Column: hr
+Shapiro-Wilk Test:
+Statistic: 0.9647666811943054
+p-value: 2.738250941547449e-07
+
+
+Column: steps
+Shapiro-Wilk Test:
+Statistic: 0.8440268039703369
+p-value: 7.916967976621567e-18
+
+
+Column: calories
+Shapiro-Wilk Test:
+Statistic: 0.9001618027687073
+p-value: 4.0811856661087526e-14
+
+
+Column: Efficiency
+Shapiro-Wilk Test:
+Statistic: 0.9733454585075378
+p-value: 6.8040085352549795e-06
+
+
+Column: MinutesAsleep
+Shapiro-Wilk Test:
+Statistic: 0.9083868861198425
+p-value: 1.8692241764844963e-13
+
+
+Column: RelativeStartTime
+Shapiro-Wilk Test:
+Statistic: 0.6847624778747559
+p-value: 1.1929467194885834e-24
+
+
+Cluster counts: 
+ 0    128
+ 1     86
+-1     65
+ 2     59
+Name: cluster, dtype: int64
+Relative Validity Index:  0.2844423260623952
+Validity Index: 0.2654706336960227
+Cluster Counts:
+ 0    128
+ 1     86
+-1     65
+ 2     59
+Name: cluster, dtype: int64
+cluster finger prints mean z score: 
+                    C-1        C0        C1        C2
+MPQtotal       0.270627  0.420350 -0.717625 -0.164065
+hr             0.034286  0.363503  0.081829 -0.945666
+MinutesAsleep  0.381994 -1.005202  0.690189  0.753898
+cluster finger prints std z score: 
+                    C-1        C0        C1        C2
+MPQtotal       0.949298  1.112853  0.679897  0.425418
+hr             1.122857  1.034159  0.529563  0.686298
+MinutesAsleep  0.532658  0.814553  0.393786  0.395590
+Patient IDs:  RCS04
+Washout Period:  60
+Activity bin before pain survey:  30
+Activity bin after pain survey:  30
+Sleep binning direction:  forward
+Number of jobs:  -1
+Column: MPQtotal
+Shapiro-Wilk Test:
+Statistic: 0.9273116588592529
+p-value: 8.325531236641481e-12
+
+
+Column: painVAS
+Shapiro-Wilk Test:
+Statistic: 0.9788529872894287
+p-value: 6.750389002263546e-05
+
+
+Column: mayoNRS
+Shapiro-Wilk Test:
+Statistic: 0.926828920841217
+p-value: 7.47629562425356e-12
+
+
+Column: hr
+Shapiro-Wilk Test:
+Statistic: 0.9285464882850647
+p-value: 1.0986833838544374e-11
+
+
+Column: steps
+Shapiro-Wilk Test:
+Statistic: 0.8654811978340149
+p-value: 1.3476745500558127e-16
+
+
+Column: calories
+Shapiro-Wilk Test:
+Statistic: 0.9139100313186646
+p-value: 4.934967907412047e-13
+
+
+Column: Efficiency
+Shapiro-Wilk Test:
+Statistic: 0.9739564061164856
+p-value: 8.201343916880433e-06
+
+
+Column: MinutesAsleep
+Shapiro-Wilk Test:
+Statistic: 0.9090717434883118
+p-value: 1.9151665659172118e-13
+
+
+Column: RelativeStartTime
+Shapiro-Wilk Test:
+Statistic: 0.6856803297996521
+p-value: 1.0946191519573104e-24
+
+
+Cluster counts: 
+ 0    91
+-1    87
+ 1    84
+ 2    78
+Name: cluster, dtype: int64
+Relative Validity Index:  0.3088043831563909
+Validity Index: 0.06308222456369846
+Cluster Counts:
+ 0    91
+-1    87
+ 1    84
+ 2    78
+Name: cluster, dtype: int64
+cluster finger prints mean z score: 
+                    C-1        C0        C1        C2
+MPQtotal       0.020803  0.756866 -0.787933 -0.057670
+hr             0.697113 -0.095618  0.091664 -0.764710
+MinutesAsleep -0.208183 -1.053863  0.663452  0.747224
+cluster finger prints std z score: 
+                    C-1        C0        C1        C2
+MPQtotal       1.015652  1.044768  0.633327  0.444010
+hr             1.337756  0.653849  0.557286  0.648790
+MinutesAsleep  0.940422  0.788537  0.363504  0.388991
+Patient IDs:  RCS04
+Washout Period:  120
+Activity bin before pain survey:  60
+Activity bin after pain survey:  0
+Sleep binning direction:  backward
+Number of jobs:  -1
+Column: MPQtotal
+Shapiro-Wilk Test:
+Statistic: 0.9187646508216858
+p-value: 3.9440798717260694e-12
+
+
+Column: painVAS
+Shapiro-Wilk Test:
+Statistic: 0.9739829897880554
+p-value: 1.5912290109554306e-05
+
+
+Column: mayoNRS
+Shapiro-Wilk Test:
+Statistic: 0.9215573072433472
+p-value: 6.985453448321577e-12
+
+
+Column: hr
+Shapiro-Wilk Test:
+Statistic: 0.9455104470252991
+p-value: 1.8130054124654293e-09
+
+
+Column: steps
+Shapiro-Wilk Test:
+Statistic: 0.7884343266487122
+p-value: 4.771834994051931e-20
+
+
+Column: calories
+Shapiro-Wilk Test:
+Statistic: 0.8164894580841064
+p-value: 9.84052623989142e-19
+
+
+Column: Efficiency
+Shapiro-Wilk Test:
+Statistic: 0.9724103808403015
+p-value: 8.61060652823653e-06
+
+
+Column: MinutesAsleep
+Shapiro-Wilk Test:
+Statistic: 0.9064855575561523
+p-value: 3.6965162918470296e-13
+
+
+Column: RelativeStartTime
+Shapiro-Wilk Test:
+Statistic: 0.6587263345718384
+p-value: 8.090706834480623e-25
+
+
+Cluster counts: 
+ 2    129
+ 0     93
+ 1     50
+-1     47
+Name: cluster, dtype: int64
+Relative Validity Index:  0.3489365027257818
+Validity Index: -0.21916458950772655
+Cluster Counts:
+ 2    129
+ 0     93
+ 1     50
+-1     47
+Name: cluster, dtype: int64
+cluster finger prints mean z score: 
+                    C-1        C0        C1        C2
+MPQtotal       0.921514  0.364875 -0.536074 -0.391014
+hr            -0.284168  0.330372  0.942503 -0.499952
+MinutesAsleep  0.190713 -1.202135  0.347046  0.662657
+cluster finger prints std z score: 
+                    C-1        C0        C1        C2
+MPQtotal       1.379142  0.933402  0.655938  0.585533
+hr             1.203592  0.967418  0.790690  0.593063
+MinutesAsleep  0.775783  0.741933  0.647060  0.408722
+Patient IDs:  RCS04
+Washout Period:  120
+Activity bin before pain survey:  0
+Activity bin after pain survey:  60
+Sleep binning direction:  backward
+Number of jobs:  -1
+Column: MPQtotal
+Shapiro-Wilk Test:
+Statistic: 0.9194452166557312
+p-value: 4.5280736625519236e-12
+
+
+Column: painVAS
+Shapiro-Wilk Test:
+Statistic: 0.9744521379470825
+p-value: 1.9178343791281804e-05
+
+
+Column: mayoNRS
+Shapiro-Wilk Test:
+Statistic: 0.9221036434173584
+p-value: 7.824393043198707e-12
+
+
+Column: hr
+Shapiro-Wilk Test:
+Statistic: 0.9734022617340088
+p-value: 1.2657453225983772e-05
+
+
+Column: steps
+Shapiro-Wilk Test:
+Statistic: 0.8940021991729736
+p-value: 4.103495836313073e-14
+
+
+Column: calories
+Shapiro-Wilk Test:
+Statistic: 0.9191226959228516
+p-value: 4.240839450442291e-12
+
+
+Column: Efficiency
+Shapiro-Wilk Test:
+Statistic: 0.9725533723831177
+p-value: 9.098397640627809e-06
+
+
+Column: MinutesAsleep
+Shapiro-Wilk Test:
+Statistic: 0.9091759920120239
+p-value: 6.093442807622584e-13
+
+
+Column: RelativeStartTime
+Shapiro-Wilk Test:
+Statistic: 0.6557033061981201
+p-value: 6.52944411378797e-25
+
+
+Cluster counts: 
+ 0    104
+ 1    100
+ 2     87
+-1     28
+Name: cluster, dtype: int64
+Relative Validity Index:  0.29855973672845365
+Validity Index: -0.07468417424615803
+Cluster Counts:
+ 0    104
+ 1    100
+ 2     87
+-1     28
+Name: cluster, dtype: int64
+cluster finger prints mean z score: 
+                    C-1        C0        C1        C2
+MPQtotal       0.317553  0.669104 -0.634684 -0.172528
+hr            -0.412301  0.113169  0.747938 -0.862287
+MinutesAsleep  0.207881 -0.996905  0.396268  0.669318
+cluster finger prints std z score: 
+                    C-1        C0        C1        C2
+MPQtotal       1.149021  1.135411  0.681683  0.378324
+hr             0.804502  0.744001  0.925886  0.618706
+MinutesAsleep  0.863219  0.924060  0.617043  0.403362
+Patient IDs:  RCS04
+Washout Period:  120
+Activity bin before pain survey:  60
+Activity bin after pain survey:  60
+Sleep binning direction:  backward
+Number of jobs:  -1
+Column: MPQtotal
+Shapiro-Wilk Test:
+Statistic: 0.9199687242507935
+p-value: 4.53568562916451e-12
+
+
+Column: painVAS
+Shapiro-Wilk Test:
+Statistic: 0.9738269448280334
+p-value: 1.4046002434042748e-05
+
+
+Column: mayoNRS
+Shapiro-Wilk Test:
+Statistic: 0.9217275977134705
+p-value: 6.520498117140727e-12
+
+
+Column: hr
+Shapiro-Wilk Test:
+Statistic: 0.9281704425811768
+p-value: 2.586086032818624e-11
+
+
+Column: steps
+Shapiro-Wilk Test:
+Statistic: 0.9124619960784912
+p-value: 1.0205154863524024e-12
+
+
+Column: calories
+Shapiro-Wilk Test:
+Statistic: 0.9240608215332031
+p-value: 1.0643117463737806e-11
+
+
+Column: Efficiency
+Shapiro-Wilk Test:
+Statistic: 0.9723086953163147
+p-value: 7.759318577882368e-06
+
+
+Column: MinutesAsleep
+Shapiro-Wilk Test:
+Statistic: 0.9083889126777649
+p-value: 4.709039148204086e-13
+
+
+Column: RelativeStartTime
+Shapiro-Wilk Test:
+Statistic: 0.6581901907920837
+p-value: 6.593083495164412e-25
+
+
+Cluster counts: 
+ 1    92
+ 0    80
+ 3    63
+ 2    54
+-1    32
+Name: cluster, dtype: int64
+Relative Validity Index:  0.4862681388720758
+Validity Index: -0.4724516612164029
+Cluster Counts:
+ 1    92
+ 0    80
+ 3    63
+ 2    54
+-1    32
+Name: cluster, dtype: int64
+cluster finger prints mean z score: 
+                    C-1        C0        C1        C2        C3
+MPQtotal       0.232282  1.027197 -0.163177 -0.577892 -0.688736
+hr             0.046274 -0.144735 -0.743619  1.228536  0.193175
+MinutesAsleep -0.604968 -0.827909  0.663380 -0.230996  0.587851
+cluster finger prints std z score: 
+                    C-1        C0        C1        C2        C3
+MPQtotal       0.848569  1.104173  0.374807  0.722953  0.639699
+hr             0.865011  0.587752  0.596751  1.240752  0.568604
+MinutesAsleep  1.130111  0.995467  0.420491  0.920531  0.410284
+Patient IDs:  RCS04
+Washout Period:  120
+Activity bin before pain survey:  60
+Activity bin after pain survey:  0
+Sleep binning direction:  forward
+Number of jobs:  -1
+Column: MPQtotal
+Shapiro-Wilk Test:
+Statistic: 0.9272181987762451
+p-value: 1.4764333852723688e-11
+
+
+Column: painVAS
+Shapiro-Wilk Test:
+Statistic: 0.975976288318634
+p-value: 2.719419171626214e-05
+
+
+Column: mayoNRS
+Shapiro-Wilk Test:
+Statistic: 0.9230879545211792
+p-value: 6.049576204564255e-12
+
+
+Column: hr
+Shapiro-Wilk Test:
+Statistic: 0.9259833693504333
+p-value: 1.1268604105385549e-11
+
+
+Column: steps
+Shapiro-Wilk Test:
+Statistic: 0.7796061038970947
+p-value: 1.0148355817986318e-20
+
+
+Column: calories
+Shapiro-Wilk Test:
+Statistic: 0.8184805512428284
+p-value: 6.641981662331958e-19
+
+
+Column: Efficiency
+Shapiro-Wilk Test:
+Statistic: 0.973670244216919
+p-value: 1.0593837941996753e-05
+
+
+Column: MinutesAsleep
+Shapiro-Wilk Test:
+Statistic: 0.9063417315483093
+p-value: 2.1877909640172222e-13
+
+
+Column: RelativeStartTime
+Shapiro-Wilk Test:
+Statistic: 0.6866810321807861
+p-value: 3.0550857225979616e-24
+
+
+Cluster counts: 
+ 0    183
+ 1     63
+ 2     62
+-1     20
+Name: cluster, dtype: int64
+Relative Validity Index:  0.4261572894995191
+Validity Index: -0.726242684929547
+Cluster Counts:
+ 0    183
+ 1     63
+ 2     62
+-1     20
+Name: cluster, dtype: int64
+cluster finger prints mean z score: 
+                    C-1        C0        C1        C2
+MPQtotal       0.229400 -0.321139  1.057847 -0.201032
+hr            -0.100431 -0.210275 -0.295085  0.952890
+MinutesAsleep -0.162636  0.663577 -0.847338 -1.045153
+cluster finger prints std z score: 
+                    C-1        C0        C1        C2
+MPQtotal       0.951323  0.812951  1.129805  0.549988
+hr             1.285593  0.804792  0.563755  1.207479
+MinutesAsleep  0.928251  0.418979  0.907566  0.752520
+Patient IDs:  RCS04
+Washout Period:  120
+Activity bin before pain survey:  0
+Activity bin after pain survey:  60
+Sleep binning direction:  forward
+Number of jobs:  -1
+Column: MPQtotal
+Shapiro-Wilk Test:
+Statistic: 0.9292322993278503
+p-value: 2.197873827380903e-11
+
+
+Column: painVAS
+Shapiro-Wilk Test:
+Statistic: 0.9770255088806152
+p-value: 4.1150378820020705e-05
+
+
+Column: mayoNRS
+Shapiro-Wilk Test:
+Statistic: 0.9238388538360596
+p-value: 6.746200386514856e-12
+
+
+Column: hr
+Shapiro-Wilk Test:
+Statistic: 0.9734933376312256
+p-value: 9.566130756866187e-06
+
+
+Column: steps
+Shapiro-Wilk Test:
+Statistic: 0.8874399065971375
+p-value: 7.693684116172588e-15
+
+
+Column: calories
+Shapiro-Wilk Test:
+Statistic: 0.9133074283599854
+p-value: 7.824061494174361e-13
+
+
+Column: Efficiency
+Shapiro-Wilk Test:
+Statistic: 0.9727720618247986
+p-value: 7.18651972420048e-06
+
+
+Column: MinutesAsleep
+Shapiro-Wilk Test:
+Statistic: 0.9049103260040283
+p-value: 1.5893898339374574e-13
+
+
+Column: RelativeStartTime
+Shapiro-Wilk Test:
+Statistic: 0.6838420033454895
+p-value: 2.2700573008697398e-24
+
+
+Cluster counts: 
+ 1    121
+-1     79
+ 0     75
+ 2     54
+Name: cluster, dtype: int64
+Relative Validity Index:  0.3390780780402888
+Validity Index: -0.24363430280142104
+Cluster Counts:
+ 1    121
+-1     79
+ 0     75
+ 2     54
+Name: cluster, dtype: int64
+cluster finger prints mean z score: 
+                    C-1        C0        C1        C2
+MPQtotal       1.048101 -0.014650 -0.348119 -0.732940
+hr            -0.484491  0.712536 -0.541949  0.933525
+MinutesAsleep -0.357308 -1.125400  0.717587  0.477857
+cluster finger prints std z score: 
+                    C-1        C0        C1        C2
+MPQtotal       1.051142  0.782770  0.589231  0.691477
+hr             0.689369  0.974218  0.679161  0.715428
+MinutesAsleep  1.001370  0.745882  0.392365  0.464402
+Patient IDs:  RCS04
+Washout Period:  120
+Activity bin before pain survey:  60
+Activity bin after pain survey:  60
+Sleep binning direction:  forward
+Number of jobs:  -1
+Column: MPQtotal
+Shapiro-Wilk Test:
+Statistic: 0.9296450018882751
+p-value: 2.185786100727949e-11
+
+
+Column: painVAS
+Shapiro-Wilk Test:
+Statistic: 0.9763855934143066
+p-value: 2.9567003366537392e-05
+
+
+Column: mayoNRS
+Shapiro-Wilk Test:
+Statistic: 0.9235504269599915
+p-value: 5.7310198253723854e-12
+
+
+Column: hr
+Shapiro-Wilk Test:
+Statistic: 0.9194548726081848
+p-value: 2.4247867169008286e-12
+
+
+Column: steps
+Shapiro-Wilk Test:
+Statistic: 0.9068787097930908
+p-value: 2.0520755505005345e-13
+
+
+Column: calories
+Shapiro-Wilk Test:
+Statistic: 0.9239200353622437
+p-value: 6.202935300819723e-12
+
+
+Column: Efficiency
+Shapiro-Wilk Test:
+Statistic: 0.9734602570533752
+p-value: 8.866800271789543e-06
+
+
+Column: MinutesAsleep
+Shapiro-Wilk Test:
+Statistic: 0.9056771993637085
+p-value: 1.6406841163441044e-13
+
+
+Column: RelativeStartTime
+Shapiro-Wilk Test:
+Statistic: 0.6847970485687256
+p-value: 2.0812722366281312e-24
+
+
+Cluster counts: 
+ 0    142
+ 1     75
+ 2     71
+-1     43
+Name: cluster, dtype: int64
+Relative Validity Index:  0.37622762673398813
+Validity Index: -0.5750018091427502
+Cluster Counts:
+ 0    142
+ 1     75
+ 2     71
+-1     43
+Name: cluster, dtype: int64
+cluster finger prints mean z score: 
+                    C-1        C0        C1        C2
+MPQtotal      -0.026491  0.502238 -0.196987 -0.780347
+hr             0.359809  0.161663 -0.697439  0.195493
+MinutesAsleep  0.238486 -0.798939  0.741147  0.670541
+cluster finger prints std z score: 
+                    C-1        C0        C1        C2
+MPQtotal       1.074823  1.057075  0.396523  0.668650
+hr             1.057596  1.148804  0.602017  0.568773
+MinutesAsleep  0.764714  0.921586  0.369882  0.384617
+Meta Grid Search Results
+Patient id:  RCS04
+Results:  [{'best_params': {'min_cluster_size': 50, 'min_samples': 1, 'cluster_selection_epsilon': 0, 'metric': 'correlation', 'cluster_selection_method': 'eom', 'alpha': 1.0, 'allow_single_cluster': False, 'gen_min_span_tree': True}, 'vi': -0.7333837857019261}, {'best_params': {'min_cluster_size': 50, 'min_samples': 6, 'cluster_selection_epsilon': 0, 'metric': 'correlation', 'cluster_selection_method': 'eom', 'alpha': 1.0, 'allow_single_cluster': False, 'gen_min_span_tree': True}, 'vi': -0.6754934459731017}, {'best_params': {'min_cluster_size': 50, 'min_samples': 1, 'cluster_selection_epsilon': 1, 'metric': 'correlation', 'cluster_selection_method': 'eom', 'alpha': 1.0, 'allow_single_cluster': False, 'gen_min_span_tree': True}, 'vi': -0.521335919528029}, {'best_params': {'min_cluster_size': 52, 'min_samples': 4, 'cluster_selection_epsilon': 0, 'metric': 'correlation', 'cluster_selection_method': 'eom', 'alpha': 1.0, 'allow_single_cluster': False, 'gen_min_span_tree': True}, 'vi': -0.7232407018108786}, {'best_params': {'min_cluster_size': 50, 'min_samples': 9, 'cluster_selection_epsilon': 0, 'metric': 'correlation', 'cluster_selection_method': 'leaf', 'alpha': 1.0, 'allow_single_cluster': False, 'gen_min_span_tree': True}, 'vi': 0.2654706336960227}, {'best_params': {'min_cluster_size': 50, 'min_samples': 1, 'cluster_selection_epsilon': 0, 'metric': 'correlation', 'cluster_selection_method': 'leaf', 'alpha': 1.0, 'allow_single_cluster': False, 'gen_min_span_tree': True}, 'vi': 0.06308222456369846}, {'best_params': {'min_cluster_size': 50, 'min_samples': 9, 'cluster_selection_epsilon': 0, 'metric': 'correlation', 'cluster_selection_method': 'eom', 'alpha': 1.0, 'allow_single_cluster': False, 'gen_min_span_tree': True}, 'vi': -0.21916458950772655}, {'best_params': {'min_cluster_size': 50, 'min_samples': 8, 'cluster_selection_epsilon': 0, 'metric': 'correlation', 'cluster_selection_method': 'eom', 'alpha': 1.0, 'allow_single_cluster': False, 'gen_min_span_tree': True}, 'vi': -0.07468417424615803}, {'best_params': {'min_cluster_size': 50, 'min_samples': 2, 'cluster_selection_epsilon': 0, 'metric': 'correlation', 'cluster_selection_method': 'eom', 'alpha': 1.0, 'allow_single_cluster': False, 'gen_min_span_tree': True}, 'vi': -0.4724516612164029}, {'best_params': {'min_cluster_size': 50, 'min_samples': 8, 'cluster_selection_epsilon': 0, 'metric': 'correlation', 'cluster_selection_method': 'eom', 'alpha': 1.0, 'allow_single_cluster': False, 'gen_min_span_tree': True}, 'vi': -0.726242684929547}, {'best_params': {'min_cluster_size': 54, 'min_samples': 1, 'cluster_selection_epsilon': 0, 'metric': 'correlation', 'cluster_selection_method': 'eom', 'alpha': 1.0, 'allow_single_cluster': False, 'gen_min_span_tree': True}, 'vi': -0.24363430280142104}, {'best_params': {'min_cluster_size': 50, 'min_samples': 8, 'cluster_selection_epsilon': 0, 'metric': 'correlation', 'cluster_selection_method': 'eom', 'alpha': 1.0, 'allow_single_cluster': False, 'gen_min_span_tree': True}, 'vi': -0.5750018091427502}]
+Overall best params:  {'min_cluster_size': 50, 'min_samples': 9, 'cluster_selection_epsilon': 0, 'metric': 'correlation', 'cluster_selection_method': 'leaf', 'alpha': 1.0, 'allow_single_cluster': False, 'gen_min_span_tree': True}
+Overall best validity index:  0.2654706336960227
+Patient IDs:  RCS06
+Washout Period:  60
+Activity bin before pain survey:  30
+Activity bin after pain survey:  0
+Sleep binning direction:  backward
+Number of jobs:  -1
+Column: MPQtotal
+Shapiro-Wilk Test:
+Statistic: 0.9804343581199646
+p-value: 0.005411297548562288
+
+
+Column: painVAS
+Shapiro-Wilk Test:
+Statistic: 0.9753795266151428
+p-value: 0.0010414033895358443
+
+
+Column: mayoNRS
+Shapiro-Wilk Test:
+Statistic: 0.8921695947647095
+p-value: 4.4895098055830474e-11
+
+
+Column: hr
+Shapiro-Wilk Test:
+Statistic: 0.9854211807250977
+p-value: 0.030734237283468246
+
+
+Column: steps
+Shapiro-Wilk Test:
+Statistic: 0.5511799454689026
+p-value: 7.507977985642462e-23
+
+
+Column: calories
+Shapiro-Wilk Test:
+Statistic: 0.7497235536575317
+p-value: 1.8133226740899633e-17
+
+
+Column: Efficiency
+Shapiro-Wilk Test:
+Statistic: 0.9724581837654114
+p-value: 0.0004239541885908693
+
+
+Column: MinutesAsleep
+Shapiro-Wilk Test:
+Statistic: 0.9603694677352905
+p-value: 1.4860733244859148e-05
+
+
+Column: RelativeStartTime
+Shapiro-Wilk Test:
+Statistic: 0.7190959453582764
+p-value: 1.803720058435927e-18
+
+
+Cluster counts: 
+1    150
+0     58
+Name: cluster, dtype: int64
+Relative Validity Index:  0.28163766915014643
+Validity Index: -0.3848665379980007
+Cluster Counts:
+1    150
+0     58
+Name: cluster, dtype: int64
+cluster finger prints mean z score: 
+               C-1        C0        C1
+MPQtotal       NaN  0.367126 -0.141955
+hr             NaN  0.653734 -0.252777
+MinutesAsleep  NaN -0.852318  0.329563
+cluster finger prints std z score: 
+               C-1        C0        C1
+MPQtotal       NaN  0.707635  1.063795
+hr             NaN  0.728875  0.980845
+MinutesAsleep  NaN  0.814141  0.866193
+Patient IDs:  RCS06
+Washout Period:  60
+Activity bin before pain survey:  0
+Activity bin after pain survey:  30
+Sleep binning direction:  backward
+Number of jobs:  -1
+Column: MPQtotal
+Shapiro-Wilk Test:
+Statistic: 0.9823446869850159
+p-value: 0.010123838670551777
+
+
+Column: painVAS
+Shapiro-Wilk Test:
+Statistic: 0.9757774472236633
+p-value: 0.001140461303293705
+
+
+Column: mayoNRS
+Shapiro-Wilk Test:
+Statistic: 0.8938467502593994
+p-value: 5.295114000047896e-11
+
+
+Column: hr
+Shapiro-Wilk Test:
+Statistic: 0.9914423823356628
+p-value: 0.2572939395904541
+
+
+Column: steps
+Shapiro-Wilk Test:
+Statistic: 0.5346387624740601
+p-value: 2.9128278717615146e-23
+
+
+Column: calories
+Shapiro-Wilk Test:
+Statistic: 0.7481487393379211
+p-value: 1.449975483656043e-17
+
+
+Column: Efficiency
+Shapiro-Wilk Test:
+Statistic: 0.9735624194145203
+p-value: 0.0005714510334655643
+
+
+Column: MinutesAsleep
+Shapiro-Wilk Test:
+Statistic: 0.9590416550636292
+p-value: 1.0119420039700344e-05
+
+
+Column: RelativeStartTime
+Shapiro-Wilk Test:
+Statistic: 0.7183501720428467
+p-value: 1.5410770824581165e-18
+
+
+Cluster counts: 
+1    121
+0     88
+Name: cluster, dtype: int64
+Relative Validity Index:  0.3367551816823383
+Validity Index: -0.08213688391441436
+Cluster Counts:
+1    121
+0     88
+Name: cluster, dtype: int64
+cluster finger prints mean z score: 
+               C-1        C0        C1
+MPQtotal       NaN  0.553031 -0.402204
+hr             NaN  0.216352 -0.157347
+MinutesAsleep  NaN -0.784691  0.570684
+cluster finger prints std z score: 
+               C-1        C0        C1
+MPQtotal       NaN  0.760747  0.966789
+hr             NaN  0.920450  1.033507
+MinutesAsleep  NaN  0.820345  0.688353
+Patient IDs:  RCS06
+Washout Period:  60
+Activity bin before pain survey:  30
+Activity bin after pain survey:  30
+Sleep binning direction:  backward
+Number of jobs:  -1
+Column: MPQtotal
+Shapiro-Wilk Test:
+Statistic: 0.9818945527076721
+p-value: 0.008195392787456512
+
+
+Column: painVAS
+Shapiro-Wilk Test:
+Statistic: 0.9756885170936584
+p-value: 0.0010347588686272502
+
+
+Column: mayoNRS
+Shapiro-Wilk Test:
+Statistic: 0.8933370113372803
+p-value: 4.2466221511494595e-11
+
+
+Column: hr
+Shapiro-Wilk Test:
+Statistic: 0.9875632524490356
+p-value: 0.06255681067705154
+
+
+Column: steps
+Shapiro-Wilk Test:
+Statistic: 0.6322833299636841
+p-value: 4.5121418022996215e-21
+
+
+Column: calories
+Shapiro-Wilk Test:
+Statistic: 0.8007741570472717
+p-value: 1.0698219882608498e-15
+
+
+Column: Efficiency
+Shapiro-Wilk Test:
+Statistic: 0.9728397130966187
+p-value: 0.0004254074301570654
+
+
+Column: MinutesAsleep
+Shapiro-Wilk Test:
+Statistic: 0.958398163318634
+p-value: 7.82196093496168e-06
+
+
+Column: RelativeStartTime
+Shapiro-Wilk Test:
+Statistic: 0.7195941209793091
+p-value: 1.3723957236093123e-18
+
+
+Cluster counts: 
+0    156
+1     55
+Name: cluster, dtype: int64
+Relative Validity Index:  0.13794223951840143
+Validity Index: -0.6840857223928556
+Cluster Counts:
+0    156
+1     55
+Name: cluster, dtype: int64
+cluster finger prints mean z score: 
+               C-1        C0        C1
+MPQtotal       NaN  0.313810 -0.890080
+hr             NaN -0.233522  0.662352
+MinutesAsleep  NaN -0.168245  0.477203
+cluster finger prints std z score: 
+               C-1        C0        C1
+MPQtotal       NaN  0.826508  0.924777
+hr             NaN  0.969748  0.776987
+MinutesAsleep  NaN  1.004056  0.836657
+Patient IDs:  RCS06
+Washout Period:  60
+Activity bin before pain survey:  30
+Activity bin after pain survey:  0
+Sleep binning direction:  forward
+Number of jobs:  -1
+Column: MPQtotal
+Shapiro-Wilk Test:
+Statistic: 0.9850289821624756
+p-value: 0.09270613640546799
+
+
+Column: painVAS
+Shapiro-Wilk Test:
+Statistic: 0.9624329209327698
+p-value: 0.0003205974935553968
+
+
+Column: mayoNRS
+Shapiro-Wilk Test:
+Statistic: 0.874582052230835
+p-value: 3.8441042016224003e-10
+
+
+Column: hr
+Shapiro-Wilk Test:
+Statistic: 0.9837507009506226
+p-value: 0.06547869741916656
+
+
+Column: steps
+Shapiro-Wilk Test:
+Statistic: 0.6630311608314514
+p-value: 2.315793868057545e-17
+
+
+Column: calories
+Shapiro-Wilk Test:
+Statistic: 0.8382149934768677
+p-value: 8.515099216011013e-12
+
+
+Column: Efficiency
+Shapiro-Wilk Test:
+Statistic: 0.9700047969818115
+p-value: 0.0018515908159315586
+
+
+Column: MinutesAsleep
+Shapiro-Wilk Test:
+Statistic: 0.9231526851654053
+p-value: 2.3416070860093896e-07
+
+
+Column: RelativeStartTime
+Shapiro-Wilk Test:
+Statistic: 0.7544240951538086
+p-value: 8.130062785103795e-15
+
+
+Cluster counts: 
+ 1    59
+ 0    52
+-1    44
+Name: cluster, dtype: int64
+Relative Validity Index:  0.08730980234906231
+Validity Index: 0.43571804162394523
+Cluster Counts:
+ 1    59
+ 0    52
+-1    44
+Name: cluster, dtype: int64
+cluster finger prints mean z score: 
+                    C-1        C0        C1
+MPQtotal      -0.489442  0.219161  0.171849
+hr            -0.530796  0.090795  0.315825
+MinutesAsleep  0.170888 -0.969158  0.726731
+cluster finger prints std z score: 
+                    C-1        C0        C1
+MPQtotal       1.213516  0.884817  0.798370
+hr             1.396495  0.648239  0.731085
+MinutesAsleep  1.086955  0.471915  0.446286
+Patient IDs:  RCS06
+Washout Period:  60
+Activity bin before pain survey:  0
+Activity bin after pain survey:  30
+Sleep binning direction:  forward
+Number of jobs:  -1
+Column: MPQtotal
+Shapiro-Wilk Test:
+Statistic: 0.9865751266479492
+p-value: 0.13512921333312988
+
+
+Column: painVAS
+Shapiro-Wilk Test:
+Statistic: 0.9644295573234558
+p-value: 0.0004553385660983622
+
+
+Column: mayoNRS
+Shapiro-Wilk Test:
+Statistic: 0.8746316432952881
+p-value: 3.2158953278127456e-10
+
+
+Column: hr
+Shapiro-Wilk Test:
+Statistic: 0.989409327507019
+p-value: 0.2865191698074341
+
+
+Column: steps
+Shapiro-Wilk Test:
+Statistic: 0.63094162940979
+p-value: 2.9872151304959187e-18
+
+
+Column: calories
+Shapiro-Wilk Test:
+Statistic: 0.8039343953132629
+p-value: 3.107161067068126e-13
+
+
+Column: Efficiency
+Shapiro-Wilk Test:
+Statistic: 0.9709800481796265
+p-value: 0.002156943315640092
+
+
+Column: MinutesAsleep
+Shapiro-Wilk Test:
+Statistic: 0.9241557121276855
+p-value: 2.3595866593950632e-07
+
+
+Column: RelativeStartTime
+Shapiro-Wilk Test:
+Statistic: 0.7383206486701965
+p-value: 2.052397888888612e-15
+
+
+Cluster counts: 
+1    101
+0     56
+Name: cluster, dtype: int64
+Relative Validity Index:  0.3516493165726807
+Validity Index: -0.43733250362209564
+Cluster Counts:
+1    101
+0     56
+Name: cluster, dtype: int64
+cluster finger prints mean z score: 
+               C-1        C0        C1
+MPQtotal       NaN  0.779388 -0.432136
+hr             NaN -0.175037  0.097050
+MinutesAsleep  NaN -0.692982  0.384228
+cluster finger prints std z score: 
+               C-1        C0        C1
+MPQtotal       NaN  0.591899  0.921158
+hr             NaN  0.838599  1.075427
+MinutesAsleep  NaN  0.729980  0.926762
+Patient IDs:  RCS06
+Washout Period:  60
+Activity bin before pain survey:  30
+Activity bin after pain survey:  30
+Sleep binning direction:  forward
+Number of jobs:  -1
+Column: MPQtotal
+Shapiro-Wilk Test:
+Statistic: 0.9859631061553955
+p-value: 0.10255853831768036
+
+
+Column: painVAS
+Shapiro-Wilk Test:
+Statistic: 0.963411271572113
+p-value: 0.000282600725768134
+
+
+Column: mayoNRS
+Shapiro-Wilk Test:
+Statistic: 0.875664234161377
+p-value: 2.301313722918863e-10
+
+
+Column: hr
+Shapiro-Wilk Test:
+Statistic: 0.9848188161849976
+p-value: 0.0741611048579216
+
+
+Column: steps
+Shapiro-Wilk Test:
+Statistic: 0.7141678333282471
+p-value: 2.2037796172219007e-16
+
+
+Column: calories
+Shapiro-Wilk Test:
+Statistic: 0.8471754789352417
+p-value: 1.0302704002429497e-11
+
+
+Column: Efficiency
+Shapiro-Wilk Test:
+Statistic: 0.9695755243301392
+p-value: 0.0012315039057284594
+
+
+Column: MinutesAsleep
+Shapiro-Wilk Test:
+Statistic: 0.9242217540740967
+p-value: 1.6540599290237878e-07
+
+
+Column: RelativeStartTime
+Shapiro-Wilk Test:
+Statistic: 0.7429423928260803
+p-value: 1.5689857038578606e-15
+
+
+Cluster counts: 
+0    86
+1    76
+Name: cluster, dtype: int64
+Relative Validity Index:  0.17867722944487163
+Validity Index: -0.2146366449918203
+Cluster Counts:
+0    86
+1    76
+Name: cluster, dtype: int64
+cluster finger prints mean z score: 
+               C-1        C0        C1
+MPQtotal       NaN  0.315847 -0.357406
+hr             NaN  0.200604 -0.226999
+MinutesAsleep  NaN -0.730853  0.827018
+cluster finger prints std z score: 
+               C-1        C0        C1
+MPQtotal       NaN  0.952201  0.942650
+hr             NaN  0.941327  1.028298
+MinutesAsleep  NaN  0.716150  0.522667
+Patient IDs:  RCS06
+Washout Period:  120
+Activity bin before pain survey:  60
+Activity bin after pain survey:  0
+Sleep binning direction:  backward
+Number of jobs:  -1
+Column: MPQtotal
+Shapiro-Wilk Test:
+Statistic: 0.982060432434082
+p-value: 0.01833004131913185
+
+
+Column: painVAS
+Shapiro-Wilk Test:
+Statistic: 0.9763079881668091
+p-value: 0.0031980264466255903
+
+
+Column: mayoNRS
+Shapiro-Wilk Test:
+Statistic: 0.8967040181159973
+p-value: 5.292031257653207e-10
+
+
+Column: hr
+Shapiro-Wilk Test:
+Statistic: 0.9854346513748169
+p-value: 0.053465746343135834
+
+
+Column: steps
+Shapiro-Wilk Test:
+Statistic: 0.618767499923706
+p-value: 4.856441030431901e-20
+
+
+Column: calories
+Shapiro-Wilk Test:
+Statistic: 0.7703559398651123
+p-value: 1.088727022489737e-15
+
+
+Column: Efficiency
+Shapiro-Wilk Test:
+Statistic: 0.974197506904602
+p-value: 0.0017374877352267504
+
+
+Column: MinutesAsleep
+Shapiro-Wilk Test:
+Statistic: 0.9604165554046631
+p-value: 4.755759800900705e-05
+
+
+Column: RelativeStartTime
+Shapiro-Wilk Test:
+Statistic: 0.7167782783508301
+p-value: 2.0284336393623383e-17
+
+
+Cluster counts: 
+ 0    65
+ 1    59
+ 2    55
+-1     5
+Name: cluster, dtype: int64
+Relative Validity Index:  0.28548405174198427
+Validity Index: -0.11025304749355844
+Cluster Counts:
+ 0    65
+ 1    59
+ 2    55
+-1     5
+Name: cluster, dtype: int64
+cluster finger prints mean z score: 
+                    C-1        C0        C1        C2
+MPQtotal      -0.488073  0.584061 -0.837364  0.252380
+hr             0.228864  0.265285  0.585678 -0.962597
+MinutesAsleep -0.122984 -0.868515  0.530202  0.468846
+cluster finger prints std z score: 
+                    C-1        C0        C1        C2
+MPQtotal       0.989887  0.733492  0.927154  0.714312
+hr             1.083849  0.818261  0.863764  0.563381
+MinutesAsleep  1.449324  0.785071  0.802588  0.623755
+Patient IDs:  RCS06
+Washout Period:  120
+Activity bin before pain survey:  0
+Activity bin after pain survey:  60
+Sleep binning direction:  backward
+Number of jobs:  -1
+Column: MPQtotal
+Shapiro-Wilk Test:
+Statistic: 0.9830057621002197
+p-value: 0.025342898443341255
+
+
+Column: painVAS
+Shapiro-Wilk Test:
+Statistic: 0.9772428274154663
+p-value: 0.0043583642691373825
+
+
+Column: mayoNRS
+Shapiro-Wilk Test:
+Statistic: 0.8948172926902771
+p-value: 4.4137213328632185e-10
+
+
+Column: hr
+Shapiro-Wilk Test:
+Statistic: 0.9888370633125305
+p-value: 0.1607203185558319
+
+
+Column: steps
+Shapiro-Wilk Test:
+Statistic: 0.6377175450325012
+p-value: 1.5944177725598102e-19
+
+
+Column: calories
+Shapiro-Wilk Test:
+Statistic: 0.8210610151290894
+p-value: 1.0186502926974941e-13
+
+
+Column: Efficiency
+Shapiro-Wilk Test:
+Statistic: 0.9738409519195557
+p-value: 0.001630142331123352
+
+
+Column: MinutesAsleep
+Shapiro-Wilk Test:
+Statistic: 0.9608582258224487
+p-value: 5.551693175220862e-05
+
+
+Column: RelativeStartTime
+Shapiro-Wilk Test:
+Statistic: 0.7216381430625916
+p-value: 3.177691747227791e-17
+
+
+Cluster counts: 
+1    101
+0     82
+Name: cluster, dtype: int64
+Relative Validity Index:  0.07915244402575064
+Validity Index: -0.4231248788449624
+Cluster Counts:
+1    101
+0     82
+Name: cluster, dtype: int64
+cluster finger prints mean z score: 
+               C-1        C0        C1
+MPQtotal       NaN -0.689191  0.559541
+hr             NaN  0.132447 -0.107531
+MinutesAsleep  NaN  0.596174 -0.484023
+cluster finger prints std z score: 
+               C-1        C0        C1
+MPQtotal       NaN  0.866625  0.718300
+hr             NaN  0.976997  1.015270
+MinutesAsleep  NaN  0.771870  0.905178
+Patient IDs:  RCS06
+Washout Period:  120
+Activity bin before pain survey:  60
+Activity bin after pain survey:  60
+Sleep binning direction:  backward
+Number of jobs:  -1
+Column: MPQtotal
+Shapiro-Wilk Test:
+Statistic: 0.9824317693710327
+p-value: 0.019498523324728012
+
+
+Column: painVAS
+Shapiro-Wilk Test:
+Statistic: 0.9769538640975952
+p-value: 0.0036114344839006662
+
+
+Column: mayoNRS
+Shapiro-Wilk Test:
+Statistic: 0.8951699733734131
+p-value: 3.660442504660466e-10
+
+
+Column: hr
+Shapiro-Wilk Test:
+Statistic: 0.987170934677124
+p-value: 0.0895480215549469
+
+
+Column: steps
+Shapiro-Wilk Test:
+Statistic: 0.7519503235816956
+p-value: 2.08705635950789e-16
+
+
+Column: calories
+Shapiro-Wilk Test:
+Statistic: 0.8574793338775635
+p-value: 3.369279898482458e-12
+
+
+Column: Efficiency
+Shapiro-Wilk Test:
+Statistic: 0.9738256335258484
+p-value: 0.0014498905511572957
+
+
+Column: MinutesAsleep
+Shapiro-Wilk Test:
+Statistic: 0.9596540927886963
+p-value: 3.592020584619604e-05
+
+
+Column: RelativeStartTime
+Shapiro-Wilk Test:
+Statistic: 0.7221658229827881
+p-value: 2.3624764676714652e-17
+
+
+Cluster counts: 
+1    104
+0     82
+Name: cluster, dtype: int64
+Relative Validity Index:  0.2988904609331827
+Validity Index: -0.31654166251095983
+Cluster Counts:
+1    104
+0     82
+Name: cluster, dtype: int64
+cluster finger prints mean z score: 
+               C-1        C0        C1
+MPQtotal       NaN -0.721561  0.568923
+hr             NaN  0.167572 -0.132124
+MinutesAsleep  NaN  0.592316 -0.467018
+cluster finger prints std z score: 
+               C-1        C0        C1
+MPQtotal       NaN  0.844372  0.709810
+hr             NaN  1.021970  0.971855
+MinutesAsleep  NaN  0.768066  0.917808
+Patient IDs:  RCS06
+Washout Period:  120
+Activity bin before pain survey:  60
+Activity bin after pain survey:  0
+Sleep binning direction:  forward
+Number of jobs:  -1
+Column: MPQtotal
+Shapiro-Wilk Test:
+Statistic: 0.9849339723587036
+p-value: 0.14397725462913513
+
+
+Column: painVAS
+Shapiro-Wilk Test:
+Statistic: 0.9643238186836243
+p-value: 0.0013230986660346389
+
+
+Column: mayoNRS
+Shapiro-Wilk Test:
+Statistic: 0.8938971757888794
+p-value: 2.3360184897569525e-08
+
+
+Column: hr
+Shapiro-Wilk Test:
+Statistic: 0.9785321950912476
+p-value: 0.0313742458820343
+
+
+Column: steps
+Shapiro-Wilk Test:
+Statistic: 0.7090032696723938
+p-value: 5.051539325999933e-15
+
+
+Column: calories
+Shapiro-Wilk Test:
+Statistic: 0.8478622436523438
+p-value: 1.7387710715688343e-10
+
+
+Column: Efficiency
+Shapiro-Wilk Test:
+Statistic: 0.9680972695350647
+p-value: 0.0029429777059704065
+
+
+Column: MinutesAsleep
+Shapiro-Wilk Test:
+Statistic: 0.926548182964325
+p-value: 1.791642716852948e-06
+
+
+Column: RelativeStartTime
+Shapiro-Wilk Test:
+Statistic: 0.7696995735168457
+p-value: 2.7861540114956784e-13
+
+
+Cluster counts: 
+0    72
+1    63
+Name: cluster, dtype: int64
+Relative Validity Index:  0.5309849578310937
+Validity Index: -0.3668553563020711
+Cluster Counts:
+0    72
+1    63
+Name: cluster, dtype: int64
+cluster finger prints mean z score: 
+               C-1        C0        C1
+MPQtotal       NaN  0.339905 -0.388462
+hr             NaN  0.234058 -0.267494
+MinutesAsleep  NaN -0.740387  0.846157
+cluster finger prints std z score: 
+               C-1        C0        C1
+MPQtotal       NaN  0.928234  0.950379
+hr             NaN  0.911513  1.043853
+MinutesAsleep  NaN  0.668593  0.548996
+Patient IDs:  RCS06
+Washout Period:  120
+Activity bin before pain survey:  0
+Activity bin after pain survey:  60
+Sleep binning direction:  forward
+Number of jobs:  -1
+Column: MPQtotal
+Shapiro-Wilk Test:
+Statistic: 0.9880186319351196
+p-value: 0.24629418551921844
+
+
+Column: painVAS
+Shapiro-Wilk Test:
+Statistic: 0.96791672706604
+p-value: 0.0017770413542166352
+
+
+Column: mayoNRS
+Shapiro-Wilk Test:
+Statistic: 0.8898196220397949
+p-value: 5.737858632670623e-09
+
+
+Column: hr
+Shapiro-Wilk Test:
+Statistic: 0.9805780053138733
+p-value: 0.03758968040347099
+
+
+Column: steps
+Shapiro-Wilk Test:
+Statistic: 0.6953237056732178
+p-value: 5.77589066815188e-16
+
+
+Column: calories
+Shapiro-Wilk Test:
+Statistic: 0.836051881313324
+p-value: 1.9644263646312332e-11
+
+
+Column: Efficiency
+Shapiro-Wilk Test:
+Statistic: 0.9701352715492249
+p-value: 0.0029518206138163805
+
+
+Column: MinutesAsleep
+Shapiro-Wilk Test:
+Statistic: 0.9261651039123535
+p-value: 7.875038363636122e-07
+
+
+Column: RelativeStartTime
+Shapiro-Wilk Test:
+Statistic: 0.7658306360244751
+p-value: 6.150703319059148e-14
+
+
+Cluster counts: 
+ 0    86
+ 1    57
+-1     2
+Name: cluster, dtype: int64
+Relative Validity Index:  0.26435842892398975
+Validity Index: 0.014645437546523893
+Cluster Counts:
+ 0    86
+ 1    57
+-1     2
+Name: cluster, dtype: int64
+cluster finger prints mean z score: 
+                    C-1        C0        C1
+MPQtotal      -1.547137  0.346611 -0.468671
+hr             1.144476  0.135862 -0.245142
+MinutesAsleep  0.050523 -0.626457  0.943409
+cluster finger prints std z score: 
+                    C-1        C0        C1
+MPQtotal       0.125448  0.938841  0.870386
+hr             0.592248  0.983757  0.988827
+MinutesAsleep  0.468645  0.732455  0.512205
+Patient IDs:  RCS06
+Washout Period:  120
+Activity bin before pain survey:  60
+Activity bin after pain survey:  60
+Sleep binning direction:  forward
+Number of jobs:  -1
+Column: MPQtotal
+Shapiro-Wilk Test:
+Statistic: 0.9881462454795837
+p-value: 0.23708899319171906
+
+
+Column: painVAS
+Shapiro-Wilk Test:
+Statistic: 0.9670823216438293
+p-value: 0.0012212243163958192
+
+
+Column: mayoNRS
+Shapiro-Wilk Test:
+Statistic: 0.8914182186126709
+p-value: 4.871253178606594e-09
+
+
+Column: hr
+Shapiro-Wilk Test:
+Statistic: 0.9752646088600159
+p-value: 0.008592129684984684
+
+
+Column: steps
+Shapiro-Wilk Test:
+Statistic: 0.8040752410888672
+p-value: 7.594044208573958e-13
+
+
+Column: calories
+Shapiro-Wilk Test:
+Statistic: 0.878900945186615
+p-value: 1.0992745602678156e-09
+
+
+Column: Efficiency
+Shapiro-Wilk Test:
+Statistic: 0.9682223200798035
+p-value: 0.001586260972544551
+
+
+Column: MinutesAsleep
+Shapiro-Wilk Test:
+Statistic: 0.9243542551994324
+p-value: 4.415866499130061e-07
+
+
+Column: RelativeStartTime
+Shapiro-Wilk Test:
+Statistic: 0.7703413963317871
+p-value: 5.316655048073077e-14
+
+
+Cluster counts: 
+ 1    94
+ 0    51
+-1     4
+Name: cluster, dtype: int64
+Relative Validity Index:  0.07708533989395222
+Validity Index: 0.3950752379865991
+Cluster Counts:
+ 1    94
+ 0    51
+-1     4
+Name: cluster, dtype: int64
+cluster finger prints mean z score: 
+                    C-1        C0        C1
+MPQtotal      -1.385523 -0.086429  0.105851
+hr             1.079934  0.665130 -0.406823
+MinutesAsleep -0.066116 -0.859328  0.469044
+cluster finger prints std z score: 
+                    C-1        C0        C1
+MPQtotal       0.542797  0.836108  1.057739
+hr             0.663701  0.599213  0.966876
+MinutesAsleep  0.374727  0.612506  0.876590
+Meta Grid Search Results
+Patient id:  RCS06
+Results:  [{'best_params': {'min_cluster_size': 50, 'min_samples': 1, 'cluster_selection_epsilon': 0, 'metric': 'correlation', 'cluster_selection_method': 'eom', 'alpha': 1.0, 'allow_single_cluster': False, 'gen_min_span_tree': True}, 'vi': -0.3848665379980007}, {'best_params': {'min_cluster_size': 50, 'min_samples': 1, 'cluster_selection_epsilon': 1, 'metric': 'correlation', 'cluster_selection_method': 'eom', 'alpha': 1.0, 'allow_single_cluster': False, 'gen_min_span_tree': True}, 'vi': -0.08213688391441436}, {'best_params': {'min_cluster_size': 50, 'min_samples': 1, 'cluster_selection_epsilon': 0, 'metric': 'correlation', 'cluster_selection_method': 'eom', 'alpha': 1.0, 'allow_single_cluster': False, 'gen_min_span_tree': True}, 'vi': -0.6840857223928556}, {'best_params': {'min_cluster_size': 50, 'min_samples': 1, 'cluster_selection_epsilon': 0, 'metric': 'sqeuclidean', 'cluster_selection_method': 'eom', 'alpha': 1.0, 'allow_single_cluster': False, 'gen_min_span_tree': True}, 'vi': 0.43571804162394523}, {'best_params': {'min_cluster_size': 50, 'min_samples': 1, 'cluster_selection_epsilon': 0, 'metric': 'correlation', 'cluster_selection_method': 'eom', 'alpha': 1.0, 'allow_single_cluster': False, 'gen_min_span_tree': True}, 'vi': -0.43733250362209564}, {'best_params': {'min_cluster_size': 50, 'min_samples': 1, 'cluster_selection_epsilon': 0, 'metric': 'correlation', 'cluster_selection_method': 'eom', 'alpha': 1.0, 'allow_single_cluster': False, 'gen_min_span_tree': True}, 'vi': -0.2146366449918203}, {'best_params': {'min_cluster_size': 50, 'min_samples': 7, 'cluster_selection_epsilon': 0, 'metric': 'correlation', 'cluster_selection_method': 'eom', 'alpha': 1.0, 'allow_single_cluster': False, 'gen_min_span_tree': True}, 'vi': -0.11025304749355844}, {'best_params': {'min_cluster_size': 50, 'min_samples': 1, 'cluster_selection_epsilon': 0, 'metric': 'correlation', 'cluster_selection_method': 'eom', 'alpha': 1.0, 'allow_single_cluster': False, 'gen_min_span_tree': True}, 'vi': -0.4231248788449624}, {'best_params': {'min_cluster_size': 50, 'min_samples': 1, 'cluster_selection_epsilon': 0, 'metric': 'correlation', 'cluster_selection_method': 'eom', 'alpha': 1.0, 'allow_single_cluster': False, 'gen_min_span_tree': True}, 'vi': -0.31654166251095983}, {'best_params': {'min_cluster_size': 50, 'min_samples': 1, 'cluster_selection_epsilon': 0, 'metric': 'correlation', 'cluster_selection_method': 'eom', 'alpha': 1.0, 'allow_single_cluster': False, 'gen_min_span_tree': True}, 'vi': -0.3668553563020711}, {'best_params': {'min_cluster_size': 50, 'min_samples': 1, 'cluster_selection_epsilon': 0, 'metric': 'correlation', 'cluster_selection_method': 'eom', 'alpha': 1.0, 'allow_single_cluster': False, 'gen_min_span_tree': True}, 'vi': 0.014645437546523893}, {'best_params': {'min_cluster_size': 50, 'min_samples': 5, 'cluster_selection_epsilon': 0, 'metric': 'correlation', 'cluster_selection_method': 'eom', 'alpha': 1.0, 'allow_single_cluster': False, 'gen_min_span_tree': True}, 'vi': 0.3950752379865991}]
+Overall best params:  {'min_cluster_size': 50, 'min_samples': 1, 'cluster_selection_epsilon': 0, 'metric': 'sqeuclidean', 'cluster_selection_method': 'eom', 'alpha': 1.0, 'allow_single_cluster': False, 'gen_min_span_tree': True}
+Overall best validity index:  0.43571804162394523

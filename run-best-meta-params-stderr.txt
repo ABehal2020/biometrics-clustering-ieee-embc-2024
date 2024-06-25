@@ -1,0 +1,57 @@
+nohup: ignoring input
+/home/adityab/conference-fitbit-clustering/clusteringGPUMinutes.py:22: UserWarning: The figure layout has changed to tight
+  plt.tight_layout()
+/home/adityab/conference-fitbit-clustering/clusteringGPUMinutes.py:321: UserWarning: The figure layout has changed to tight
+  plt.tight_layout()
+/home/adityab/conference-fitbit-clustering/clusteringGPUMinutes.py:22: UserWarning: The figure layout has changed to tight
+  plt.tight_layout()
+/home/adityab/conference-fitbit-clustering/clusteringGPUMinutes.py:22: UserWarning: The figure layout has changed to tight
+  plt.tight_layout()
+/home/adityab/conference-fitbit-clustering/clusteringGPUMinutes.py:620: UserWarning: The figure layout has changed to tight
+  plt.tight_layout()
+/home/adityab/conference-fitbit-clustering/clusteringGPUMinutes.py:22: UserWarning: The figure layout has changed to tight
+  plt.tight_layout()
+/home/adityab/conference-fitbit-clustering/clusteringGPUMinutes.py:620: UserWarning: The figure layout has changed to tight
+  plt.tight_layout()
+/home/adityab/conference-fitbit-clustering/clusteringGPUMinutes.py:22: UserWarning: The figure layout has changed to tight
+  plt.tight_layout()
+/home/adityab/conference-fitbit-clustering/clusteringGPUMinutes.py:620: UserWarning: The figure layout has changed to tight
+  plt.tight_layout()
+/home/adityab/conference-fitbit-clustering/clusteringGPUMinutes.py:22: UserWarning: The figure layout has changed to tight
+  plt.tight_layout()
+/home/adityab/conference-fitbit-clustering/clusteringGPUMinutes.py:22: UserWarning: The figure layout has changed to tight
+  plt.tight_layout()
+/home/adityab/conference-fitbit-clustering/clusteringGPUMinutes.py:321: UserWarning: The figure layout has changed to tight
+  plt.tight_layout()
+/home/adityab/conference-fitbit-clustering/clusteringGPUMinutes.py:22: UserWarning: The figure layout has changed to tight
+  plt.tight_layout()
+/home/adityab/conference-fitbit-clustering/clusteringGPUMinutes.py:22: UserWarning: The figure layout has changed to tight
+  plt.tight_layout()
+/home/adityab/conference-fitbit-clustering/clusteringGPUMinutes.py:620: UserWarning: The figure layout has changed to tight
+  plt.tight_layout()
+/home/adityab/conference-fitbit-clustering/clusteringGPUMinutes.py:22: UserWarning: The figure layout has changed to tight
+  plt.tight_layout()
+/home/adityab/conference-fitbit-clustering/clusteringGPUMinutes.py:620: UserWarning: The figure layout has changed to tight
+  plt.tight_layout()
+/home/adityab/conference-fitbit-clustering/clusteringGPUMinutes.py:22: UserWarning: The figure layout has changed to tight
+  plt.tight_layout()
+/home/adityab/conference-fitbit-clustering/clusteringGPUMinutes.py:620: UserWarning: The figure layout has changed to tight
+  plt.tight_layout()
+/home/adityab/conference-fitbit-clustering/clusteringGPUMinutes.py:22: UserWarning: The figure layout has changed to tight
+  plt.tight_layout()
+/home/adityab/conference-fitbit-clustering/clusteringGPUMinutes.py:22: UserWarning: The figure layout has changed to tight
+  plt.tight_layout()
+/home/adityab/conference-fitbit-clustering/clusteringGPUMinutes.py:321: UserWarning: The figure layout has changed to tight
+  plt.tight_layout()
+/home/adityab/conference-fitbit-clustering/clusteringGPUMinutes.py:22: UserWarning: The figure layout has changed to tight
+  plt.tight_layout()
+/home/adityab/conference-fitbit-clustering/clusteringGPUMinutes.py:22: UserWarning: The figure layout has changed to tight
+  plt.tight_layout()
+/home/adityab/conference-fitbit-clustering/clusteringGPUMinutes.py:620: UserWarning: The figure layout has changed to tight
+  plt.tight_layout()
+/home/adityab/conference-fitbit-clustering/clusteringGPUMinutes.py:22: UserWarning: The figure layout has changed to tight
+  plt.tight_layout()
+/home/adityab/conference-fitbit-clustering/clusteringGPUMinutes.py:620: UserWarning: The figure layout has changed to tight
+  plt.tight_layout()
+/home/adityab/conference-fitbit-clustering/clusteringGPUMinutes.py:22: UserWarning: The figure layout has changed to tight
+  plt.tight_layout()
